@@ -1,0 +1,39 @@
+name: Actualizar precios del oro y la plata
+
+# Se ejecuta solo, todos los días a las 07:00 hora de México (13:00 UTC).
+# También puedes lanzarlo a mano desde la pestaña "Actions" en GitHub
+# con el botón "Run workflow".
+on:
+  schedule:
+    - cron: "0 13 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  actualizar-precios:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Descargar el código del repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Correr el script de actualización de precios
+        run: python actualizar_precios.py
+
+      - name: Subir products.json si cambió
+        run: |
+          git config user.name "bot-precios"
+          git config user.email "bot-precios@users.noreply.github.com"
+          if git diff --quiet products.json; then
+            echo "Los precios no cambiaron, no hay nada que subir."
+          else
+            git add products.json
+            git commit -m "Actualizar precios del oro y la plata ($(date +'%Y-%m-%d'))"
+            git push
+          fi
