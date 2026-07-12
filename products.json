@@ -1,0 +1,4117 @@
+[
+  {
+    "id": "p001",
+    "nombre": "Cadena Cubana Milano",
+    "categoria": "cadenas-cubanas",
+    "categoriaLabel": "Cadenas Cubanas",
+    "icon": "link",
+    "descripcion": "Cadena de eslabón cubano macizo, cierre de seguridad tipo langosta.",
+    "garantia": "6 meses contra defectos de fabricación",
+    "codigo": "CAD001",
+    "imagenes": [
+      "frontal",
+      "detalle",
+      "perfil",
+      "uso",
+      "empaque"
+    ],
+    "variantes": [
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 55,
+        "ancho": 8,
+        "talla": null,
+        "precio": 910,
+        "peso": 8.3,
+        "stock": true,
+        "codigo": "CAD001-PL55x8"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 55,
+        "ancho": 4,
+        "talla": null,
+        "precio": 460,
+        "peso": 4.2,
+        "stock": true,
+        "codigo": "CAD001-PL55x4"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 45,
+        "ancho": 8,
+        "talla": null,
+        "precio": 790,
+        "peso": 7.2,
+        "stock": true,
+        "codigo": "CAD001-PL45x8"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 45,
+        "ancho": 4,
+        "talla": null,
+        "precio": 350,
+        "peso": 3.2,
+        "stock": false,
+        "codigo": "CAD001-PL45x4"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 50,
+        "ancho": 8,
+        "talla": null,
+        "precio": 850,
+        "peso": 7.7,
+        "stock": true,
+        "codigo": "CAD001-PL50x8"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 400,
+        "peso": 3.6,
+        "stock": false,
+        "codigo": "CAD001-PL50x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 55,
+        "ancho": 8,
+        "talla": null,
+        "precio": 26890,
+        "peso": 8.3,
+        "stock": true,
+        "codigo": "CAD001-OR55x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 55,
+        "ancho": 4,
+        "talla": null,
+        "precio": 14580,
+        "peso": 4.5,
+        "stock": true,
+        "codigo": "CAD001-OR55x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 45,
+        "ancho": 8,
+        "talla": null,
+        "precio": 22680,
+        "peso": 7.0,
+        "stock": false,
+        "codigo": "CAD001-OR45x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 45,
+        "ancho": 4,
+        "talla": null,
+        "precio": 10370,
+        "peso": 3.2,
+        "stock": true,
+        "codigo": "CAD001-OR45x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 50,
+        "ancho": 8,
+        "talla": null,
+        "precio": 24300,
+        "peso": 7.5,
+        "stock": true,
+        "codigo": "CAD001-OR50x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 12310,
+        "peso": 3.8,
+        "stock": true,
+        "codigo": "CAD001-OR50x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 55,
+        "ancho": 8,
+        "talla": null,
+        "precio": 38440,
+        "peso": 8.6,
+        "stock": true,
+        "codigo": "CAD001-OR55x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 55,
+        "ancho": 4,
+        "talla": null,
+        "precio": 19220,
+        "peso": 4.3,
+        "stock": true,
+        "codigo": "CAD001-OR55x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 45,
+        "ancho": 8,
+        "talla": null,
+        "precio": 30400,
+        "peso": 6.8,
+        "stock": true,
+        "codigo": "CAD001-OR45x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 45,
+        "ancho": 4,
+        "talla": null,
+        "precio": 15200,
+        "peso": 3.4,
+        "stock": true,
+        "codigo": "CAD001-OR45x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 50,
+        "ancho": 8,
+        "talla": null,
+        "precio": 34870,
+        "peso": 7.8,
+        "stock": true,
+        "codigo": "CAD001-OR50x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 17430,
+        "peso": 3.9,
+        "stock": false,
+        "codigo": "CAD001-OR50x4"
+      }
+    ]
+  },
+  {
+    "id": "p002",
+    "nombre": "Cadena Cubana Roma",
+    "categoria": "cadenas-cubanas",
+    "categoriaLabel": "Cadenas Cubanas",
+    "icon": "link",
+    "descripcion": "Cadena de eslabón cubano macizo, cierre de seguridad tipo langosta.",
+    "garantia": "6 meses contra defectos de fabricación",
+    "codigo": "CAD002",
+    "imagenes": [
+      "frontal",
+      "detalle",
+      "perfil",
+      "uso",
+      "empaque"
+    ],
+    "variantes": [
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 55,
+        "ancho": 6,
+        "talla": null,
+        "precio": 690,
+        "peso": 6.3,
+        "stock": true,
+        "codigo": "CAD002-PL55x6"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 55,
+        "ancho": 8,
+        "talla": null,
+        "precio": 960,
+        "peso": 8.7,
+        "stock": true,
+        "codigo": "CAD002-PL55x8"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 50,
+        "ancho": 6,
+        "talla": null,
+        "precio": 620,
+        "peso": 5.6,
+        "stock": true,
+        "codigo": "CAD002-PL50x6"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 50,
+        "ancho": 8,
+        "talla": null,
+        "precio": 860,
+        "peso": 7.8,
+        "stock": true,
+        "codigo": "CAD002-PL50x8"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 60,
+        "ancho": 6,
+        "talla": null,
+        "precio": 780,
+        "peso": 7.1,
+        "stock": true,
+        "codigo": "CAD002-PL60x6"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 60,
+        "ancho": 8,
+        "talla": null,
+        "precio": 1030,
+        "peso": 9.4,
+        "stock": true,
+        "codigo": "CAD002-PL60x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 55,
+        "ancho": 6,
+        "talla": null,
+        "precio": 20090,
+        "peso": 6.2,
+        "stock": false,
+        "codigo": "CAD002-OR55x6"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 55,
+        "ancho": 8,
+        "talla": null,
+        "precio": 27220,
+        "peso": 8.4,
+        "stock": true,
+        "codigo": "CAD002-OR55x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 50,
+        "ancho": 6,
+        "talla": null,
+        "precio": 18140,
+        "peso": 5.6,
+        "stock": false,
+        "codigo": "CAD002-OR50x6"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 50,
+        "ancho": 8,
+        "talla": null,
+        "precio": 24950,
+        "peso": 7.7,
+        "stock": true,
+        "codigo": "CAD002-OR50x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 60,
+        "ancho": 6,
+        "talla": null,
+        "precio": 23330,
+        "peso": 7.2,
+        "stock": true,
+        "codigo": "CAD002-OR60x6"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 60,
+        "ancho": 8,
+        "talla": null,
+        "precio": 29810,
+        "peso": 9.2,
+        "stock": true,
+        "codigo": "CAD002-OR60x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 55,
+        "ancho": 6,
+        "talla": null,
+        "precio": 29060,
+        "peso": 6.5,
+        "stock": false,
+        "codigo": "CAD002-OR55x6"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 55,
+        "ancho": 8,
+        "talla": null,
+        "precio": 37100,
+        "peso": 8.3,
+        "stock": true,
+        "codigo": "CAD002-OR55x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 50,
+        "ancho": 6,
+        "talla": null,
+        "precio": 27270,
+        "peso": 6.1,
+        "stock": false,
+        "codigo": "CAD002-OR50x6"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 50,
+        "ancho": 8,
+        "talla": null,
+        "precio": 35310,
+        "peso": 7.9,
+        "stock": true,
+        "codigo": "CAD002-OR50x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 60,
+        "ancho": 6,
+        "talla": null,
+        "precio": 29950,
+        "peso": 6.7,
+        "stock": true,
+        "codigo": "CAD002-OR60x6"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 60,
+        "ancho": 8,
+        "talla": null,
+        "precio": 42020,
+        "peso": 9.4,
+        "stock": false,
+        "codigo": "CAD002-OR60x8"
+      }
+    ]
+  },
+  {
+    "id": "p003",
+    "nombre": "Cadena Cubana Iced",
+    "categoria": "cadenas-cubanas",
+    "categoriaLabel": "Cadenas Cubanas",
+    "icon": "link",
+    "descripcion": "Cadena de eslabón cubano macizo, cierre de seguridad tipo langosta.",
+    "garantia": "6 meses contra defectos de fabricación",
+    "codigo": "CAD003",
+    "imagenes": [
+      "frontal",
+      "detalle",
+      "perfil",
+      "uso",
+      "empaque"
+    ],
+    "variantes": [
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 55,
+        "ancho": 8,
+        "talla": null,
+        "precio": 910,
+        "peso": 8.3,
+        "stock": false,
+        "codigo": "CAD003-PL55x8"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 55,
+        "ancho": 6,
+        "talla": null,
+        "precio": 690,
+        "peso": 6.3,
+        "stock": true,
+        "codigo": "CAD003-PL55x6"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 60,
+        "ancho": 8,
+        "talla": null,
+        "precio": 1020,
+        "peso": 9.3,
+        "stock": true,
+        "codigo": "CAD003-PL60x8"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 60,
+        "ancho": 6,
+        "talla": null,
+        "precio": 790,
+        "peso": 7.2,
+        "stock": true,
+        "codigo": "CAD003-PL60x6"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 50,
+        "ancho": 8,
+        "talla": null,
+        "precio": 870,
+        "peso": 7.9,
+        "stock": false,
+        "codigo": "CAD003-PL50x8"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 50,
+        "ancho": 6,
+        "talla": null,
+        "precio": 640,
+        "peso": 5.8,
+        "stock": false,
+        "codigo": "CAD003-PL50x6"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 55,
+        "ancho": 8,
+        "talla": null,
+        "precio": 26890,
+        "peso": 8.3,
+        "stock": false,
+        "codigo": "CAD003-OR55x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 55,
+        "ancho": 6,
+        "talla": null,
+        "precio": 20740,
+        "peso": 6.4,
+        "stock": true,
+        "codigo": "CAD003-OR55x6"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 60,
+        "ancho": 8,
+        "talla": null,
+        "precio": 31100,
+        "peso": 9.6,
+        "stock": false,
+        "codigo": "CAD003-OR60x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 60,
+        "ancho": 6,
+        "talla": null,
+        "precio": 23330,
+        "peso": 7.2,
+        "stock": true,
+        "codigo": "CAD003-OR60x6"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 50,
+        "ancho": 8,
+        "talla": null,
+        "precio": 25600,
+        "peso": 7.9,
+        "stock": true,
+        "codigo": "CAD003-OR50x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 50,
+        "ancho": 6,
+        "talla": null,
+        "precio": 19120,
+        "peso": 5.9,
+        "stock": false,
+        "codigo": "CAD003-OR50x6"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 55,
+        "ancho": 8,
+        "talla": null,
+        "precio": 39340,
+        "peso": 8.8,
+        "stock": true,
+        "codigo": "CAD003-OR55x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 55,
+        "ancho": 6,
+        "talla": null,
+        "precio": 27710,
+        "peso": 6.2,
+        "stock": true,
+        "codigo": "CAD003-OR55x6"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 60,
+        "ancho": 8,
+        "talla": null,
+        "precio": 41120,
+        "peso": 9.2,
+        "stock": true,
+        "codigo": "CAD003-OR60x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 60,
+        "ancho": 6,
+        "talla": null,
+        "precio": 29950,
+        "peso": 6.7,
+        "stock": true,
+        "codigo": "CAD003-OR60x6"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 50,
+        "ancho": 8,
+        "talla": null,
+        "precio": 33970,
+        "peso": 7.6,
+        "stock": true,
+        "codigo": "CAD003-OR50x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 50,
+        "ancho": 6,
+        "talla": null,
+        "precio": 25030,
+        "peso": 5.6,
+        "stock": true,
+        "codigo": "CAD003-OR50x6"
+      }
+    ]
+  },
+  {
+    "id": "p004",
+    "nombre": "Cadena Cartier Doble",
+    "categoria": "cadenas-cartier",
+    "categoriaLabel": "Cadenas Cartier",
+    "icon": "link",
+    "descripcion": "Cadena estilo Cartier de eslabón alargado, acabado pulido.",
+    "garantia": "6 meses contra defectos de fabricación",
+    "codigo": "CAD004",
+    "imagenes": [
+      "frontal",
+      "detalle",
+      "perfil",
+      "uso",
+      "empaque"
+    ],
+    "variantes": [
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 55,
+        "ancho": 6,
+        "talla": null,
+        "precio": 700,
+        "peso": 6.4,
+        "stock": false,
+        "codigo": "CAD004-PL55x6"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 55,
+        "ancho": 8,
+        "talla": null,
+        "precio": 910,
+        "peso": 8.3,
+        "stock": false,
+        "codigo": "CAD004-PL55x8"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 45,
+        "ancho": 6,
+        "talla": null,
+        "precio": 550,
+        "peso": 5.0,
+        "stock": true,
+        "codigo": "CAD004-PL45x6"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 45,
+        "ancho": 8,
+        "talla": null,
+        "precio": 800,
+        "peso": 7.3,
+        "stock": false,
+        "codigo": "CAD004-PL45x8"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 60,
+        "ancho": 6,
+        "talla": null,
+        "precio": 750,
+        "peso": 6.8,
+        "stock": true,
+        "codigo": "CAD004-PL60x6"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 60,
+        "ancho": 8,
+        "talla": null,
+        "precio": 1030,
+        "peso": 9.4,
+        "stock": true,
+        "codigo": "CAD004-PL60x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 55,
+        "ancho": 6,
+        "talla": null,
+        "precio": 19760,
+        "peso": 6.1,
+        "stock": true,
+        "codigo": "CAD004-OR55x6"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 55,
+        "ancho": 8,
+        "talla": null,
+        "precio": 27860,
+        "peso": 8.6,
+        "stock": true,
+        "codigo": "CAD004-OR55x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 45,
+        "ancho": 6,
+        "talla": null,
+        "precio": 17170,
+        "peso": 5.3,
+        "stock": true,
+        "codigo": "CAD004-OR45x6"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 45,
+        "ancho": 8,
+        "talla": null,
+        "precio": 23330,
+        "peso": 7.2,
+        "stock": false,
+        "codigo": "CAD004-OR45x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 60,
+        "ancho": 6,
+        "talla": null,
+        "precio": 22030,
+        "peso": 6.8,
+        "stock": true,
+        "codigo": "CAD004-OR60x6"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 60,
+        "ancho": 8,
+        "talla": null,
+        "precio": 31100,
+        "peso": 9.6,
+        "stock": true,
+        "codigo": "CAD004-OR60x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 55,
+        "ancho": 6,
+        "talla": null,
+        "precio": 28610,
+        "peso": 6.4,
+        "stock": true,
+        "codigo": "CAD004-OR55x6"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 55,
+        "ancho": 8,
+        "talla": null,
+        "precio": 39340,
+        "peso": 8.8,
+        "stock": false,
+        "codigo": "CAD004-OR55x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 45,
+        "ancho": 6,
+        "talla": null,
+        "precio": 23240,
+        "peso": 5.2,
+        "stock": true,
+        "codigo": "CAD004-OR45x6"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 45,
+        "ancho": 8,
+        "talla": null,
+        "precio": 30400,
+        "peso": 6.8,
+        "stock": true,
+        "codigo": "CAD004-OR45x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 60,
+        "ancho": 6,
+        "talla": null,
+        "precio": 31740,
+        "peso": 7.1,
+        "stock": true,
+        "codigo": "CAD004-OR60x6"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 60,
+        "ancho": 8,
+        "talla": null,
+        "precio": 41570,
+        "peso": 9.3,
+        "stock": true,
+        "codigo": "CAD004-OR60x8"
+      }
+    ]
+  },
+  {
+    "id": "p005",
+    "nombre": "Cadena Cartier Clásica",
+    "categoria": "cadenas-cartier",
+    "categoriaLabel": "Cadenas Cartier",
+    "icon": "link",
+    "descripcion": "Cadena estilo Cartier de eslabón alargado, acabado pulido.",
+    "garantia": "6 meses contra defectos de fabricación",
+    "codigo": "CAD005",
+    "imagenes": [
+      "frontal",
+      "detalle",
+      "perfil",
+      "uso",
+      "empaque"
+    ],
+    "variantes": [
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 45,
+        "ancho": 4,
+        "talla": null,
+        "precio": 410,
+        "peso": 3.7,
+        "stock": true,
+        "codigo": "CAD005-PL45x4"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 45,
+        "ancho": 8,
+        "talla": null,
+        "precio": 800,
+        "peso": 7.3,
+        "stock": true,
+        "codigo": "CAD005-PL45x8"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 60,
+        "ancho": 4,
+        "talla": null,
+        "precio": 530,
+        "peso": 4.8,
+        "stock": true,
+        "codigo": "CAD005-PL60x4"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 60,
+        "ancho": 8,
+        "talla": null,
+        "precio": 1020,
+        "peso": 9.3,
+        "stock": true,
+        "codigo": "CAD005-PL60x8"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 420,
+        "peso": 3.8,
+        "stock": true,
+        "codigo": "CAD005-PL50x4"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 50,
+        "ancho": 8,
+        "talla": null,
+        "precio": 860,
+        "peso": 7.8,
+        "stock": true,
+        "codigo": "CAD005-PL50x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 45,
+        "ancho": 4,
+        "talla": null,
+        "precio": 11660,
+        "peso": 3.6,
+        "stock": true,
+        "codigo": "CAD005-OR45x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 45,
+        "ancho": 8,
+        "talla": null,
+        "precio": 23330,
+        "peso": 7.2,
+        "stock": false,
+        "codigo": "CAD005-OR45x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 60,
+        "ancho": 4,
+        "talla": null,
+        "precio": 15550,
+        "peso": 4.8,
+        "stock": true,
+        "codigo": "CAD005-OR60x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 60,
+        "ancho": 8,
+        "talla": null,
+        "precio": 29810,
+        "peso": 9.2,
+        "stock": false,
+        "codigo": "CAD005-OR60x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 12310,
+        "peso": 3.8,
+        "stock": true,
+        "codigo": "CAD005-OR50x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 50,
+        "ancho": 8,
+        "talla": null,
+        "precio": 26240,
+        "peso": 8.1,
+        "stock": true,
+        "codigo": "CAD005-OR50x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 45,
+        "ancho": 4,
+        "talla": null,
+        "precio": 15640,
+        "peso": 3.5,
+        "stock": true,
+        "codigo": "CAD005-OR45x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 45,
+        "ancho": 8,
+        "talla": null,
+        "precio": 31740,
+        "peso": 7.1,
+        "stock": true,
+        "codigo": "CAD005-OR45x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 60,
+        "ancho": 4,
+        "talla": null,
+        "precio": 20560,
+        "peso": 4.6,
+        "stock": true,
+        "codigo": "CAD005-OR60x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 60,
+        "ancho": 8,
+        "talla": null,
+        "precio": 42910,
+        "peso": 9.6,
+        "stock": true,
+        "codigo": "CAD005-OR60x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 16090,
+        "peso": 3.6,
+        "stock": true,
+        "codigo": "CAD005-OR50x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 50,
+        "ancho": 8,
+        "talla": null,
+        "precio": 33970,
+        "peso": 7.6,
+        "stock": true,
+        "codigo": "CAD005-OR50x8"
+      }
+    ]
+  },
+  {
+    "id": "p006",
+    "nombre": "Cadena Gucci Plana",
+    "categoria": "cadenas-gucci",
+    "categoriaLabel": "Cadenas Gucci",
+    "icon": "link",
+    "descripcion": "Cadena estilo Gucci de eslabón plano entrelazado, acabado brillante.",
+    "garantia": "6 meses contra defectos de fabricación",
+    "codigo": "CAD006",
+    "imagenes": [
+      "frontal",
+      "detalle",
+      "perfil",
+      "uso",
+      "empaque"
+    ],
+    "variantes": [
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 55,
+        "ancho": 8,
+        "talla": null,
+        "precio": 940,
+        "peso": 8.5,
+        "stock": true,
+        "codigo": "CAD006-PL55x8"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 55,
+        "ancho": 4,
+        "talla": null,
+        "precio": 500,
+        "peso": 4.5,
+        "stock": true,
+        "codigo": "CAD006-PL55x4"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 45,
+        "ancho": 8,
+        "talla": null,
+        "precio": 790,
+        "peso": 7.2,
+        "stock": true,
+        "codigo": "CAD006-PL45x8"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 45,
+        "ancho": 4,
+        "talla": null,
+        "precio": 410,
+        "peso": 3.7,
+        "stock": true,
+        "codigo": "CAD006-PL45x4"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 50,
+        "ancho": 8,
+        "talla": null,
+        "precio": 860,
+        "peso": 7.8,
+        "stock": true,
+        "codigo": "CAD006-PL50x8"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 420,
+        "peso": 3.8,
+        "stock": true,
+        "codigo": "CAD006-PL50x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 55,
+        "ancho": 8,
+        "talla": null,
+        "precio": 26890,
+        "peso": 8.3,
+        "stock": false,
+        "codigo": "CAD006-OR55x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 55,
+        "ancho": 4,
+        "talla": null,
+        "precio": 13930,
+        "peso": 4.3,
+        "stock": true,
+        "codigo": "CAD006-OR55x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 45,
+        "ancho": 8,
+        "talla": null,
+        "precio": 23000,
+        "peso": 7.1,
+        "stock": true,
+        "codigo": "CAD006-OR45x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 45,
+        "ancho": 4,
+        "talla": null,
+        "precio": 12310,
+        "peso": 3.8,
+        "stock": true,
+        "codigo": "CAD006-OR45x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 50,
+        "ancho": 8,
+        "talla": null,
+        "precio": 24620,
+        "peso": 7.6,
+        "stock": false,
+        "codigo": "CAD006-OR50x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 13280,
+        "peso": 4.1,
+        "stock": true,
+        "codigo": "CAD006-OR50x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 55,
+        "ancho": 8,
+        "talla": null,
+        "precio": 38440,
+        "peso": 8.6,
+        "stock": false,
+        "codigo": "CAD006-OR55x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 55,
+        "ancho": 4,
+        "talla": null,
+        "precio": 19670,
+        "peso": 4.4,
+        "stock": true,
+        "codigo": "CAD006-OR55x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 45,
+        "ancho": 8,
+        "talla": null,
+        "precio": 30400,
+        "peso": 6.8,
+        "stock": true,
+        "codigo": "CAD006-OR45x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 45,
+        "ancho": 4,
+        "talla": null,
+        "precio": 14300,
+        "peso": 3.2,
+        "stock": true,
+        "codigo": "CAD006-OR45x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 50,
+        "ancho": 8,
+        "talla": null,
+        "precio": 34870,
+        "peso": 7.8,
+        "stock": true,
+        "codigo": "CAD006-OR50x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 16990,
+        "peso": 3.8,
+        "stock": true,
+        "codigo": "CAD006-OR50x4"
+      }
+    ]
+  },
+  {
+    "id": "p007",
+    "nombre": "Cadena Gucci Trenzada",
+    "categoria": "cadenas-gucci",
+    "categoriaLabel": "Cadenas Gucci",
+    "icon": "link",
+    "descripcion": "Cadena estilo Gucci de eslabón plano entrelazado, acabado brillante.",
+    "garantia": "6 meses contra defectos de fabricación",
+    "codigo": "CAD007",
+    "imagenes": [
+      "frontal",
+      "detalle",
+      "perfil",
+      "uso",
+      "empaque"
+    ],
+    "variantes": [
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 430,
+        "peso": 3.9,
+        "stock": true,
+        "codigo": "CAD007-PL50x4"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 50,
+        "ancho": 6,
+        "talla": null,
+        "precio": 630,
+        "peso": 5.7,
+        "stock": false,
+        "codigo": "CAD007-PL50x6"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 45,
+        "ancho": 4,
+        "talla": null,
+        "precio": 410,
+        "peso": 3.7,
+        "stock": true,
+        "codigo": "CAD007-PL45x4"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 45,
+        "ancho": 6,
+        "talla": null,
+        "precio": 600,
+        "peso": 5.5,
+        "stock": true,
+        "codigo": "CAD007-PL45x6"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 60,
+        "ancho": 4,
+        "talla": null,
+        "precio": 540,
+        "peso": 4.9,
+        "stock": false,
+        "codigo": "CAD007-PL60x4"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 60,
+        "ancho": 6,
+        "talla": null,
+        "precio": 790,
+        "peso": 7.2,
+        "stock": true,
+        "codigo": "CAD007-PL60x6"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 12640,
+        "peso": 3.9,
+        "stock": true,
+        "codigo": "CAD007-OR50x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 50,
+        "ancho": 6,
+        "talla": null,
+        "precio": 19760,
+        "peso": 6.1,
+        "stock": true,
+        "codigo": "CAD007-OR50x6"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 45,
+        "ancho": 4,
+        "talla": null,
+        "precio": 11660,
+        "peso": 3.6,
+        "stock": true,
+        "codigo": "CAD007-OR45x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 45,
+        "ancho": 6,
+        "talla": null,
+        "precio": 16520,
+        "peso": 5.1,
+        "stock": false,
+        "codigo": "CAD007-OR45x6"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 60,
+        "ancho": 4,
+        "talla": null,
+        "precio": 15230,
+        "peso": 4.7,
+        "stock": true,
+        "codigo": "CAD007-OR60x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 60,
+        "ancho": 6,
+        "talla": null,
+        "precio": 22680,
+        "peso": 7.0,
+        "stock": true,
+        "codigo": "CAD007-OR60x6"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 17880,
+        "peso": 4.0,
+        "stock": false,
+        "codigo": "CAD007-OR50x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 50,
+        "ancho": 6,
+        "talla": null,
+        "precio": 26820,
+        "peso": 6.0,
+        "stock": true,
+        "codigo": "CAD007-OR50x6"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 45,
+        "ancho": 4,
+        "talla": null,
+        "precio": 16540,
+        "peso": 3.7,
+        "stock": true,
+        "codigo": "CAD007-OR45x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 45,
+        "ancho": 6,
+        "talla": null,
+        "precio": 22800,
+        "peso": 5.1,
+        "stock": true,
+        "codigo": "CAD007-OR45x6"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 60,
+        "ancho": 4,
+        "talla": null,
+        "precio": 19670,
+        "peso": 4.4,
+        "stock": true,
+        "codigo": "CAD007-OR60x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 60,
+        "ancho": 6,
+        "talla": null,
+        "precio": 31290,
+        "peso": 7.0,
+        "stock": true,
+        "codigo": "CAD007-OR60x6"
+      }
+    ]
+  },
+  {
+    "id": "p008",
+    "nombre": "Pulsera Cubana Mini",
+    "categoria": "pulseras",
+    "categoriaLabel": "Pulseras",
+    "icon": "circle",
+    "descripcion": "Pulsera con cierre reforzado y broche de seguridad.",
+    "garantia": "6 meses contra defectos de fabricación",
+    "codigo": "PUL008",
+    "imagenes": [
+      "frontal",
+      "detalle",
+      "perfil",
+      "uso",
+      "empaque"
+    ],
+    "variantes": [
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 45,
+        "ancho": 8,
+        "talla": null,
+        "precio": 780,
+        "peso": 7.1,
+        "stock": false,
+        "codigo": "PUL008-PL45x8"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 45,
+        "ancho": 4,
+        "talla": null,
+        "precio": 380,
+        "peso": 3.5,
+        "stock": false,
+        "codigo": "PUL008-PL45x4"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 50,
+        "ancho": 8,
+        "talla": null,
+        "precio": 860,
+        "peso": 7.8,
+        "stock": true,
+        "codigo": "PUL008-PL50x8"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 440,
+        "peso": 4.0,
+        "stock": true,
+        "codigo": "PUL008-PL50x4"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 55,
+        "ancho": 8,
+        "talla": null,
+        "precio": 970,
+        "peso": 8.8,
+        "stock": true,
+        "codigo": "PUL008-PL55x8"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 55,
+        "ancho": 4,
+        "talla": null,
+        "precio": 500,
+        "peso": 4.5,
+        "stock": true,
+        "codigo": "PUL008-PL55x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 45,
+        "ancho": 8,
+        "talla": null,
+        "precio": 22360,
+        "peso": 6.9,
+        "stock": false,
+        "codigo": "PUL008-OR45x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 45,
+        "ancho": 4,
+        "talla": null,
+        "precio": 11340,
+        "peso": 3.5,
+        "stock": true,
+        "codigo": "PUL008-OR45x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 50,
+        "ancho": 8,
+        "talla": null,
+        "precio": 25600,
+        "peso": 7.9,
+        "stock": false,
+        "codigo": "PUL008-OR50x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 11660,
+        "peso": 3.6,
+        "stock": true,
+        "codigo": "PUL008-OR50x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 55,
+        "ancho": 8,
+        "talla": null,
+        "precio": 28190,
+        "peso": 8.7,
+        "stock": true,
+        "codigo": "PUL008-OR55x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 55,
+        "ancho": 4,
+        "talla": null,
+        "precio": 14580,
+        "peso": 4.5,
+        "stock": true,
+        "codigo": "PUL008-OR55x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 45,
+        "ancho": 8,
+        "talla": null,
+        "precio": 30400,
+        "peso": 6.8,
+        "stock": true,
+        "codigo": "PUL008-OR45x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 45,
+        "ancho": 4,
+        "talla": null,
+        "precio": 16990,
+        "peso": 3.8,
+        "stock": true,
+        "codigo": "PUL008-OR45x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 50,
+        "ancho": 8,
+        "talla": null,
+        "precio": 35310,
+        "peso": 7.9,
+        "stock": true,
+        "codigo": "PUL008-OR50x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 16990,
+        "peso": 3.8,
+        "stock": false,
+        "codigo": "PUL008-OR50x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 55,
+        "ancho": 8,
+        "talla": null,
+        "precio": 37550,
+        "peso": 8.4,
+        "stock": true,
+        "codigo": "PUL008-OR55x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 55,
+        "ancho": 4,
+        "talla": null,
+        "precio": 18330,
+        "peso": 4.1,
+        "stock": false,
+        "codigo": "PUL008-OR55x4"
+      }
+    ]
+  },
+  {
+    "id": "p009",
+    "nombre": "Pulsera Cartier",
+    "categoria": "pulseras",
+    "categoriaLabel": "Pulseras",
+    "icon": "circle",
+    "descripcion": "Pulsera con cierre reforzado y broche de seguridad.",
+    "garantia": "6 meses contra defectos de fabricación",
+    "codigo": "PUL009",
+    "imagenes": [
+      "frontal",
+      "detalle",
+      "perfil",
+      "uso",
+      "empaque"
+    ],
+    "variantes": [
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 60,
+        "ancho": 4,
+        "talla": null,
+        "precio": 510,
+        "peso": 4.6,
+        "stock": true,
+        "codigo": "PUL009-PL60x4"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 60,
+        "ancho": 6,
+        "talla": null,
+        "precio": 740,
+        "peso": 6.7,
+        "stock": false,
+        "codigo": "PUL009-PL60x6"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 430,
+        "peso": 3.9,
+        "stock": true,
+        "codigo": "PUL009-PL50x4"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 50,
+        "ancho": 6,
+        "talla": null,
+        "precio": 640,
+        "peso": 5.8,
+        "stock": true,
+        "codigo": "PUL009-PL50x6"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 55,
+        "ancho": 4,
+        "talla": null,
+        "precio": 470,
+        "peso": 4.3,
+        "stock": true,
+        "codigo": "PUL009-PL55x4"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 55,
+        "ancho": 6,
+        "talla": null,
+        "precio": 680,
+        "peso": 6.2,
+        "stock": true,
+        "codigo": "PUL009-PL55x6"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 60,
+        "ancho": 4,
+        "talla": null,
+        "precio": 15880,
+        "peso": 4.9,
+        "stock": true,
+        "codigo": "PUL009-OR60x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 60,
+        "ancho": 6,
+        "talla": null,
+        "precio": 22030,
+        "peso": 6.8,
+        "stock": true,
+        "codigo": "PUL009-OR60x6"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 11660,
+        "peso": 3.6,
+        "stock": true,
+        "codigo": "PUL009-OR50x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 50,
+        "ancho": 6,
+        "talla": null,
+        "precio": 18470,
+        "peso": 5.7,
+        "stock": true,
+        "codigo": "PUL009-OR50x6"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 55,
+        "ancho": 4,
+        "talla": null,
+        "precio": 14580,
+        "peso": 4.5,
+        "stock": true,
+        "codigo": "PUL009-OR55x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 55,
+        "ancho": 6,
+        "talla": null,
+        "precio": 20740,
+        "peso": 6.4,
+        "stock": false,
+        "codigo": "PUL009-OR55x6"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 60,
+        "ancho": 4,
+        "talla": null,
+        "precio": 21460,
+        "peso": 4.8,
+        "stock": true,
+        "codigo": "PUL009-OR60x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 60,
+        "ancho": 6,
+        "talla": null,
+        "precio": 30840,
+        "peso": 6.9,
+        "stock": true,
+        "codigo": "PUL009-OR60x6"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 16990,
+        "peso": 3.8,
+        "stock": true,
+        "codigo": "PUL009-OR50x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 50,
+        "ancho": 6,
+        "talla": null,
+        "precio": 25480,
+        "peso": 5.7,
+        "stock": true,
+        "codigo": "PUL009-OR50x6"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 55,
+        "ancho": 4,
+        "talla": null,
+        "precio": 19670,
+        "peso": 4.4,
+        "stock": true,
+        "codigo": "PUL009-OR55x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 55,
+        "ancho": 6,
+        "talla": null,
+        "precio": 27710,
+        "peso": 6.2,
+        "stock": true,
+        "codigo": "PUL009-OR55x6"
+      }
+    ]
+  },
+  {
+    "id": "p010",
+    "nombre": "Pulsera Tejida",
+    "categoria": "pulseras",
+    "categoriaLabel": "Pulseras",
+    "icon": "circle",
+    "descripcion": "Pulsera con cierre reforzado y broche de seguridad.",
+    "garantia": "6 meses contra defectos de fabricación",
+    "codigo": "PUL010",
+    "imagenes": [
+      "frontal",
+      "detalle",
+      "perfil",
+      "uso",
+      "empaque"
+    ],
+    "variantes": [
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 45,
+        "ancho": 6,
+        "talla": null,
+        "precio": 570,
+        "peso": 5.2,
+        "stock": false,
+        "codigo": "PUL010-PL45x6"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 45,
+        "ancho": 4,
+        "talla": null,
+        "precio": 420,
+        "peso": 3.8,
+        "stock": true,
+        "codigo": "PUL010-PL45x4"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 50,
+        "ancho": 6,
+        "talla": null,
+        "precio": 650,
+        "peso": 5.9,
+        "stock": true,
+        "codigo": "PUL010-PL50x6"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 430,
+        "peso": 3.9,
+        "stock": true,
+        "codigo": "PUL010-PL50x4"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 60,
+        "ancho": 6,
+        "talla": null,
+        "precio": 800,
+        "peso": 7.3,
+        "stock": true,
+        "codigo": "PUL010-PL60x6"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 60,
+        "ancho": 4,
+        "talla": null,
+        "precio": 500,
+        "peso": 4.5,
+        "stock": true,
+        "codigo": "PUL010-PL60x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 45,
+        "ancho": 6,
+        "talla": null,
+        "precio": 16520,
+        "peso": 5.1,
+        "stock": true,
+        "codigo": "PUL010-OR45x6"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 45,
+        "ancho": 4,
+        "talla": null,
+        "precio": 11660,
+        "peso": 3.6,
+        "stock": true,
+        "codigo": "PUL010-OR45x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 50,
+        "ancho": 6,
+        "talla": null,
+        "precio": 18470,
+        "peso": 5.7,
+        "stock": true,
+        "codigo": "PUL010-OR50x6"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 12310,
+        "peso": 3.8,
+        "stock": true,
+        "codigo": "PUL010-OR50x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 60,
+        "ancho": 6,
+        "talla": null,
+        "precio": 23650,
+        "peso": 7.3,
+        "stock": true,
+        "codigo": "PUL010-OR60x6"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 60,
+        "ancho": 4,
+        "talla": null,
+        "precio": 14260,
+        "peso": 4.4,
+        "stock": true,
+        "codigo": "PUL010-OR60x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 45,
+        "ancho": 6,
+        "talla": null,
+        "precio": 23690,
+        "peso": 5.3,
+        "stock": true,
+        "codigo": "PUL010-OR45x6"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 45,
+        "ancho": 4,
+        "talla": null,
+        "precio": 16990,
+        "peso": 3.8,
+        "stock": true,
+        "codigo": "PUL010-OR45x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 50,
+        "ancho": 6,
+        "talla": null,
+        "precio": 26370,
+        "peso": 5.9,
+        "stock": false,
+        "codigo": "PUL010-OR50x6"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 17880,
+        "peso": 4.0,
+        "stock": false,
+        "codigo": "PUL010-OR50x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 60,
+        "ancho": 6,
+        "talla": null,
+        "precio": 32630,
+        "peso": 7.3,
+        "stock": true,
+        "codigo": "PUL010-OR60x6"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 60,
+        "ancho": 4,
+        "talla": null,
+        "precio": 21460,
+        "peso": 4.8,
+        "stock": true,
+        "codigo": "PUL010-OR60x4"
+      }
+    ]
+  },
+  {
+    "id": "p011",
+    "nombre": "Rosario Clásico",
+    "categoria": "rosarios",
+    "categoriaLabel": "Rosarios",
+    "icon": "cross",
+    "descripcion": "Rosario de eslabón fino con crucifijo, largo tradicional de bendición.",
+    "garantia": "6 meses contra defectos de fabricación",
+    "codigo": "ROS011",
+    "imagenes": [
+      "frontal",
+      "detalle",
+      "perfil",
+      "uso",
+      "empaque"
+    ],
+    "variantes": [
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 55,
+        "ancho": 6,
+        "talla": null,
+        "precio": 740,
+        "peso": 6.7,
+        "stock": true,
+        "codigo": "ROS011-PL55x6"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 55,
+        "ancho": 8,
+        "talla": null,
+        "precio": 910,
+        "peso": 8.3,
+        "stock": true,
+        "codigo": "ROS011-PL55x8"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 45,
+        "ancho": 6,
+        "talla": null,
+        "precio": 570,
+        "peso": 5.2,
+        "stock": true,
+        "codigo": "ROS011-PL45x6"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 45,
+        "ancho": 8,
+        "talla": null,
+        "precio": 750,
+        "peso": 6.8,
+        "stock": false,
+        "codigo": "ROS011-PL45x8"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 60,
+        "ancho": 6,
+        "talla": null,
+        "precio": 790,
+        "peso": 7.2,
+        "stock": true,
+        "codigo": "ROS011-PL60x6"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 60,
+        "ancho": 8,
+        "talla": null,
+        "precio": 1030,
+        "peso": 9.4,
+        "stock": true,
+        "codigo": "ROS011-PL60x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 55,
+        "ancho": 6,
+        "talla": null,
+        "precio": 19760,
+        "peso": 6.1,
+        "stock": true,
+        "codigo": "ROS011-OR55x6"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 55,
+        "ancho": 8,
+        "talla": null,
+        "precio": 27220,
+        "peso": 8.4,
+        "stock": false,
+        "codigo": "ROS011-OR55x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 45,
+        "ancho": 6,
+        "talla": null,
+        "precio": 16200,
+        "peso": 5.0,
+        "stock": true,
+        "codigo": "ROS011-OR45x6"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 45,
+        "ancho": 8,
+        "talla": null,
+        "precio": 23650,
+        "peso": 7.3,
+        "stock": true,
+        "codigo": "ROS011-OR45x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 60,
+        "ancho": 6,
+        "talla": null,
+        "precio": 22030,
+        "peso": 6.8,
+        "stock": true,
+        "codigo": "ROS011-OR60x6"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 60,
+        "ancho": 8,
+        "talla": null,
+        "precio": 29810,
+        "peso": 9.2,
+        "stock": true,
+        "codigo": "ROS011-OR60x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 55,
+        "ancho": 6,
+        "talla": null,
+        "precio": 27270,
+        "peso": 6.1,
+        "stock": false,
+        "codigo": "ROS011-OR55x6"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 55,
+        "ancho": 8,
+        "talla": null,
+        "precio": 37100,
+        "peso": 8.3,
+        "stock": true,
+        "codigo": "ROS011-OR55x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 45,
+        "ancho": 6,
+        "talla": null,
+        "precio": 23690,
+        "peso": 5.3,
+        "stock": true,
+        "codigo": "ROS011-OR45x6"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 45,
+        "ancho": 8,
+        "talla": null,
+        "precio": 30400,
+        "peso": 6.8,
+        "stock": true,
+        "codigo": "ROS011-OR45x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 60,
+        "ancho": 6,
+        "talla": null,
+        "precio": 30400,
+        "peso": 6.8,
+        "stock": true,
+        "codigo": "ROS011-OR60x6"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 60,
+        "ancho": 8,
+        "talla": null,
+        "precio": 40680,
+        "peso": 9.1,
+        "stock": true,
+        "codigo": "ROS011-OR60x8"
+      }
+    ]
+  },
+  {
+    "id": "p012",
+    "nombre": "Rosario Eslabón Fino",
+    "categoria": "rosarios",
+    "categoriaLabel": "Rosarios",
+    "icon": "cross",
+    "descripcion": "Rosario de eslabón fino con crucifijo, largo tradicional de bendición.",
+    "garantia": "6 meses contra defectos de fabricación",
+    "codigo": "ROS012",
+    "imagenes": [
+      "frontal",
+      "detalle",
+      "perfil",
+      "uso",
+      "empaque"
+    ],
+    "variantes": [
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 60,
+        "ancho": 6,
+        "talla": null,
+        "precio": 750,
+        "peso": 6.8,
+        "stock": true,
+        "codigo": "ROS012-PL60x6"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 60,
+        "ancho": 4,
+        "talla": null,
+        "precio": 530,
+        "peso": 4.8,
+        "stock": false,
+        "codigo": "ROS012-PL60x4"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 45,
+        "ancho": 6,
+        "talla": null,
+        "precio": 590,
+        "peso": 5.4,
+        "stock": false,
+        "codigo": "ROS012-PL45x6"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 45,
+        "ancho": 4,
+        "talla": null,
+        "precio": 360,
+        "peso": 3.3,
+        "stock": true,
+        "codigo": "ROS012-PL45x4"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 50,
+        "ancho": 6,
+        "talla": null,
+        "precio": 620,
+        "peso": 5.6,
+        "stock": false,
+        "codigo": "ROS012-PL50x6"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 440,
+        "peso": 4.0,
+        "stock": true,
+        "codigo": "ROS012-PL50x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 60,
+        "ancho": 6,
+        "talla": null,
+        "precio": 23330,
+        "peso": 7.2,
+        "stock": true,
+        "codigo": "ROS012-OR60x6"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 60,
+        "ancho": 4,
+        "talla": null,
+        "precio": 15880,
+        "peso": 4.9,
+        "stock": true,
+        "codigo": "ROS012-OR60x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 45,
+        "ancho": 6,
+        "talla": null,
+        "precio": 16200,
+        "peso": 5.0,
+        "stock": true,
+        "codigo": "ROS012-OR45x6"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 45,
+        "ancho": 4,
+        "talla": null,
+        "precio": 10690,
+        "peso": 3.3,
+        "stock": true,
+        "codigo": "ROS012-OR45x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 50,
+        "ancho": 6,
+        "talla": null,
+        "precio": 19760,
+        "peso": 6.1,
+        "stock": false,
+        "codigo": "ROS012-OR50x6"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 13280,
+        "peso": 4.1,
+        "stock": true,
+        "codigo": "ROS012-OR50x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 60,
+        "ancho": 6,
+        "talla": null,
+        "precio": 31740,
+        "peso": 7.1,
+        "stock": true,
+        "codigo": "ROS012-OR60x6"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 60,
+        "ancho": 4,
+        "talla": null,
+        "precio": 21010,
+        "peso": 4.7,
+        "stock": true,
+        "codigo": "ROS012-OR60x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 45,
+        "ancho": 6,
+        "talla": null,
+        "precio": 23240,
+        "peso": 5.2,
+        "stock": true,
+        "codigo": "ROS012-OR45x6"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 45,
+        "ancho": 4,
+        "talla": null,
+        "precio": 16090,
+        "peso": 3.6,
+        "stock": true,
+        "codigo": "ROS012-OR45x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 50,
+        "ancho": 6,
+        "talla": null,
+        "precio": 26370,
+        "peso": 5.9,
+        "stock": true,
+        "codigo": "ROS012-OR50x6"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 17880,
+        "peso": 4.0,
+        "stock": false,
+        "codigo": "ROS012-OR50x4"
+      }
+    ]
+  },
+  {
+    "id": "p013",
+    "nombre": "Tobillera Eslabón Fino",
+    "categoria": "tobilleras",
+    "categoriaLabel": "Tobilleras",
+    "icon": "circle",
+    "descripcion": "Tobillera de eslabón fino con cierre ajustable en los últimos 3 cm.",
+    "garantia": "6 meses contra defectos de fabricación",
+    "codigo": "TOB013",
+    "imagenes": [
+      "frontal",
+      "detalle",
+      "perfil",
+      "uso",
+      "empaque"
+    ],
+    "variantes": [
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 55,
+        "ancho": 4,
+        "talla": null,
+        "precio": 450,
+        "peso": 4.1,
+        "stock": false,
+        "codigo": "TOB013-PL55x4"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 55,
+        "ancho": 8,
+        "talla": null,
+        "precio": 950,
+        "peso": 8.6,
+        "stock": false,
+        "codigo": "TOB013-PL55x8"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 45,
+        "ancho": 4,
+        "talla": null,
+        "precio": 350,
+        "peso": 3.2,
+        "stock": true,
+        "codigo": "TOB013-PL45x4"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 45,
+        "ancho": 8,
+        "talla": null,
+        "precio": 790,
+        "peso": 7.2,
+        "stock": true,
+        "codigo": "TOB013-PL45x8"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 400,
+        "peso": 3.6,
+        "stock": true,
+        "codigo": "TOB013-PL50x4"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 50,
+        "ancho": 8,
+        "talla": null,
+        "precio": 850,
+        "peso": 7.7,
+        "stock": true,
+        "codigo": "TOB013-PL50x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 55,
+        "ancho": 4,
+        "talla": null,
+        "precio": 14260,
+        "peso": 4.4,
+        "stock": true,
+        "codigo": "TOB013-OR55x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 55,
+        "ancho": 8,
+        "talla": null,
+        "precio": 26890,
+        "peso": 8.3,
+        "stock": true,
+        "codigo": "TOB013-OR55x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 45,
+        "ancho": 4,
+        "talla": null,
+        "precio": 11340,
+        "peso": 3.5,
+        "stock": true,
+        "codigo": "TOB013-OR45x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 45,
+        "ancho": 8,
+        "talla": null,
+        "precio": 23000,
+        "peso": 7.1,
+        "stock": false,
+        "codigo": "TOB013-OR45x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 12310,
+        "peso": 3.8,
+        "stock": true,
+        "codigo": "TOB013-OR50x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 50,
+        "ancho": 8,
+        "talla": null,
+        "precio": 25270,
+        "peso": 7.8,
+        "stock": false,
+        "codigo": "TOB013-OR50x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 55,
+        "ancho": 4,
+        "talla": null,
+        "precio": 19670,
+        "peso": 4.4,
+        "stock": true,
+        "codigo": "TOB013-OR55x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 55,
+        "ancho": 8,
+        "talla": null,
+        "precio": 37550,
+        "peso": 8.4,
+        "stock": true,
+        "codigo": "TOB013-OR55x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 45,
+        "ancho": 4,
+        "talla": null,
+        "precio": 16990,
+        "peso": 3.8,
+        "stock": true,
+        "codigo": "TOB013-OR45x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 45,
+        "ancho": 8,
+        "talla": null,
+        "precio": 30840,
+        "peso": 6.9,
+        "stock": true,
+        "codigo": "TOB013-OR45x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 18330,
+        "peso": 4.1,
+        "stock": false,
+        "codigo": "TOB013-OR50x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 50,
+        "ancho": 8,
+        "talla": null,
+        "precio": 36210,
+        "peso": 8.1,
+        "stock": false,
+        "codigo": "TOB013-OR50x8"
+      }
+    ]
+  },
+  {
+    "id": "p014",
+    "nombre": "Tobillera Cartier Mini",
+    "categoria": "tobilleras",
+    "categoriaLabel": "Tobilleras",
+    "icon": "circle",
+    "descripcion": "Tobillera de eslabón fino con cierre ajustable en los últimos 3 cm.",
+    "garantia": "6 meses contra defectos de fabricación",
+    "codigo": "TOB014",
+    "imagenes": [
+      "frontal",
+      "detalle",
+      "perfil",
+      "uso",
+      "empaque"
+    ],
+    "variantes": [
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 50,
+        "ancho": 8,
+        "talla": null,
+        "precio": 840,
+        "peso": 7.6,
+        "stock": true,
+        "codigo": "TOB014-PL50x8"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 460,
+        "peso": 4.2,
+        "stock": true,
+        "codigo": "TOB014-PL50x4"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 45,
+        "ancho": 8,
+        "talla": null,
+        "precio": 780,
+        "peso": 7.1,
+        "stock": true,
+        "codigo": "TOB014-PL45x8"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 45,
+        "ancho": 4,
+        "talla": null,
+        "precio": 410,
+        "peso": 3.7,
+        "stock": true,
+        "codigo": "TOB014-PL45x4"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 55,
+        "ancho": 8,
+        "talla": null,
+        "precio": 920,
+        "peso": 8.4,
+        "stock": false,
+        "codigo": "TOB014-PL55x8"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": 55,
+        "ancho": 4,
+        "talla": null,
+        "precio": 460,
+        "peso": 4.2,
+        "stock": true,
+        "codigo": "TOB014-PL55x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 50,
+        "ancho": 8,
+        "talla": null,
+        "precio": 24300,
+        "peso": 7.5,
+        "stock": false,
+        "codigo": "TOB014-OR50x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 12960,
+        "peso": 4.0,
+        "stock": false,
+        "codigo": "TOB014-OR50x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 45,
+        "ancho": 8,
+        "talla": null,
+        "precio": 22360,
+        "peso": 6.9,
+        "stock": true,
+        "codigo": "TOB014-OR45x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 45,
+        "ancho": 4,
+        "talla": null,
+        "precio": 11020,
+        "peso": 3.4,
+        "stock": false,
+        "codigo": "TOB014-OR45x4"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 55,
+        "ancho": 8,
+        "talla": null,
+        "precio": 27220,
+        "peso": 8.4,
+        "stock": true,
+        "codigo": "TOB014-OR55x8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": 55,
+        "ancho": 4,
+        "talla": null,
+        "precio": 12960,
+        "peso": 4.0,
+        "stock": true,
+        "codigo": "TOB014-OR55x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 50,
+        "ancho": 8,
+        "talla": null,
+        "precio": 35760,
+        "peso": 8.0,
+        "stock": true,
+        "codigo": "TOB014-OR50x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 50,
+        "ancho": 4,
+        "talla": null,
+        "precio": 18770,
+        "peso": 4.2,
+        "stock": true,
+        "codigo": "TOB014-OR50x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 45,
+        "ancho": 8,
+        "talla": null,
+        "precio": 31740,
+        "peso": 7.1,
+        "stock": true,
+        "codigo": "TOB014-OR45x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 45,
+        "ancho": 4,
+        "talla": null,
+        "precio": 15200,
+        "peso": 3.4,
+        "stock": true,
+        "codigo": "TOB014-OR45x4"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 55,
+        "ancho": 8,
+        "talla": null,
+        "precio": 38000,
+        "peso": 8.5,
+        "stock": true,
+        "codigo": "TOB014-OR55x8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": 55,
+        "ancho": 4,
+        "talla": null,
+        "precio": 18770,
+        "peso": 4.2,
+        "stock": false,
+        "codigo": "TOB014-OR55x4"
+      }
+    ]
+  },
+  {
+    "id": "p015",
+    "nombre": "Anillo Liso Pulido",
+    "categoria": "anillos",
+    "categoriaLabel": "Anillos",
+    "icon": "ring",
+    "descripcion": "Anillo de banda continua, acabado pulido a espejo.",
+    "garantia": "6 meses contra defectos de fabricación",
+    "codigo": "ANI015",
+    "imagenes": [
+      "frontal",
+      "detalle",
+      "perfil",
+      "uso",
+      "empaque"
+    ],
+    "variantes": [
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": null,
+        "ancho": null,
+        "talla": 11,
+        "precio": 360,
+        "peso": 3.3,
+        "stock": true,
+        "codigo": "ANI015-PLT11"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": null,
+        "ancho": null,
+        "talla": 7,
+        "precio": 330,
+        "peso": 3.0,
+        "stock": true,
+        "codigo": "ANI015-PLT7"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": null,
+        "ancho": null,
+        "talla": 5,
+        "precio": 280,
+        "peso": 2.5,
+        "stock": true,
+        "codigo": "ANI015-PLT5"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": null,
+        "ancho": null,
+        "talla": 10,
+        "precio": 360,
+        "peso": 3.3,
+        "stock": true,
+        "codigo": "ANI015-PLT10"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": null,
+        "ancho": null,
+        "talla": 11,
+        "precio": 11020,
+        "peso": 3.4,
+        "stock": true,
+        "codigo": "ANI015-ORT11"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": null,
+        "ancho": null,
+        "talla": 7,
+        "precio": 9720,
+        "peso": 3.0,
+        "stock": false,
+        "codigo": "ANI015-ORT7"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": null,
+        "ancho": null,
+        "talla": 5,
+        "precio": 9070,
+        "peso": 2.8,
+        "stock": false,
+        "codigo": "ANI015-ORT5"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": null,
+        "ancho": null,
+        "talla": 10,
+        "precio": 11340,
+        "peso": 3.5,
+        "stock": true,
+        "codigo": "ANI015-ORT10"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": null,
+        "ancho": null,
+        "talla": 11,
+        "precio": 16090,
+        "peso": 3.6,
+        "stock": true,
+        "codigo": "ANI015-ORT11"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": null,
+        "ancho": null,
+        "talla": 7,
+        "precio": 13860,
+        "peso": 3.1,
+        "stock": false,
+        "codigo": "ANI015-ORT7"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": null,
+        "ancho": null,
+        "talla": 5,
+        "precio": 11620,
+        "peso": 2.6,
+        "stock": true,
+        "codigo": "ANI015-ORT5"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": null,
+        "ancho": null,
+        "talla": 10,
+        "precio": 15200,
+        "peso": 3.4,
+        "stock": true,
+        "codigo": "ANI015-ORT10"
+      }
+    ]
+  },
+  {
+    "id": "p016",
+    "nombre": "Anillo Texturizado",
+    "categoria": "anillos",
+    "categoriaLabel": "Anillos",
+    "icon": "ring",
+    "descripcion": "Anillo de banda continua, acabado pulido a espejo.",
+    "garantia": "6 meses contra defectos de fabricación",
+    "codigo": "ANI016",
+    "imagenes": [
+      "frontal",
+      "detalle",
+      "perfil",
+      "uso",
+      "empaque"
+    ],
+    "variantes": [
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": null,
+        "ancho": null,
+        "talla": 8,
+        "precio": 320,
+        "peso": 2.9,
+        "stock": false,
+        "codigo": "ANI016-PLT8"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": null,
+        "ancho": null,
+        "talla": 5,
+        "precio": 280,
+        "peso": 2.5,
+        "stock": true,
+        "codigo": "ANI016-PLT5"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": null,
+        "ancho": null,
+        "talla": 9,
+        "precio": 340,
+        "peso": 3.1,
+        "stock": true,
+        "codigo": "ANI016-PLT9"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": null,
+        "ancho": null,
+        "talla": 6,
+        "precio": 300,
+        "peso": 2.7,
+        "stock": true,
+        "codigo": "ANI016-PLT6"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": null,
+        "ancho": null,
+        "talla": 8,
+        "precio": 9720,
+        "peso": 3.0,
+        "stock": false,
+        "codigo": "ANI016-ORT8"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": null,
+        "ancho": null,
+        "talla": 5,
+        "precio": 7780,
+        "peso": 2.4,
+        "stock": true,
+        "codigo": "ANI016-ORT5"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": null,
+        "ancho": null,
+        "talla": 9,
+        "precio": 9720,
+        "peso": 3.0,
+        "stock": false,
+        "codigo": "ANI016-ORT9"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": null,
+        "ancho": null,
+        "talla": 6,
+        "precio": 9070,
+        "peso": 2.8,
+        "stock": false,
+        "codigo": "ANI016-ORT6"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": null,
+        "ancho": null,
+        "talla": 8,
+        "precio": 14300,
+        "peso": 3.2,
+        "stock": false,
+        "codigo": "ANI016-ORT8"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": null,
+        "ancho": null,
+        "talla": 5,
+        "precio": 11620,
+        "peso": 2.6,
+        "stock": true,
+        "codigo": "ANI016-ORT5"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": null,
+        "ancho": null,
+        "talla": 9,
+        "precio": 13860,
+        "peso": 3.1,
+        "stock": true,
+        "codigo": "ANI016-ORT9"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": null,
+        "ancho": null,
+        "talla": 6,
+        "precio": 12070,
+        "peso": 2.7,
+        "stock": true,
+        "codigo": "ANI016-ORT6"
+      }
+    ]
+  },
+  {
+    "id": "p017",
+    "nombre": "Anillo Doble Banda",
+    "categoria": "anillos",
+    "categoriaLabel": "Anillos",
+    "icon": "ring",
+    "descripcion": "Anillo de banda continua, acabado pulido a espejo.",
+    "garantia": "6 meses contra defectos de fabricación",
+    "codigo": "ANI017",
+    "imagenes": [
+      "frontal",
+      "detalle",
+      "perfil",
+      "uso",
+      "empaque"
+    ],
+    "variantes": [
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": null,
+        "ancho": null,
+        "talla": 7,
+        "precio": 330,
+        "peso": 3.0,
+        "stock": true,
+        "codigo": "ANI017-PLT7"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": null,
+        "ancho": null,
+        "talla": 6,
+        "precio": 320,
+        "peso": 2.9,
+        "stock": false,
+        "codigo": "ANI017-PLT6"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": null,
+        "ancho": null,
+        "talla": 11,
+        "precio": 380,
+        "peso": 3.5,
+        "stock": true,
+        "codigo": "ANI017-PLT11"
+      },
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": null,
+        "ancho": null,
+        "talla": 9,
+        "precio": 350,
+        "peso": 3.2,
+        "stock": true,
+        "codigo": "ANI017-PLT9"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": null,
+        "ancho": null,
+        "talla": 7,
+        "precio": 9720,
+        "peso": 3.0,
+        "stock": false,
+        "codigo": "ANI017-ORT7"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": null,
+        "ancho": null,
+        "talla": 6,
+        "precio": 8750,
+        "peso": 2.7,
+        "stock": true,
+        "codigo": "ANI017-ORT6"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": null,
+        "ancho": null,
+        "talla": 11,
+        "precio": 11020,
+        "peso": 3.4,
+        "stock": true,
+        "codigo": "ANI017-ORT11"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": null,
+        "ancho": null,
+        "talla": 9,
+        "precio": 9720,
+        "peso": 3.0,
+        "stock": true,
+        "codigo": "ANI017-ORT9"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": null,
+        "ancho": null,
+        "talla": 7,
+        "precio": 12960,
+        "peso": 2.9,
+        "stock": false,
+        "codigo": "ANI017-ORT7"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": null,
+        "ancho": null,
+        "talla": 6,
+        "precio": 12070,
+        "peso": 2.7,
+        "stock": true,
+        "codigo": "ANI017-ORT6"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": null,
+        "ancho": null,
+        "talla": 11,
+        "precio": 16090,
+        "peso": 3.6,
+        "stock": true,
+        "codigo": "ANI017-ORT11"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": null,
+        "ancho": null,
+        "talla": 9,
+        "precio": 13860,
+        "peso": 3.1,
+        "stock": false,
+        "codigo": "ANI017-ORT9"
+      }
+    ]
+  },
+  {
+    "id": "p018",
+    "nombre": "Aretes Botón Clásico",
+    "categoria": "aretes",
+    "categoriaLabel": "Aretes",
+    "icon": "drop",
+    "descripcion": "Par de aretes con broquel de seguridad, acabado brillante.",
+    "garantia": "6 meses contra defectos de fabricación",
+    "codigo": "ARE018",
+    "imagenes": [
+      "frontal",
+      "detalle",
+      "perfil",
+      "uso",
+      "empaque"
+    ],
+    "variantes": [
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 470,
+        "peso": 4.3,
+        "stock": false,
+        "codigo": "ARE018-PL"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 17500,
+        "peso": 5.4,
+        "stock": false,
+        "codigo": "ARE018-OR"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 6700,
+        "peso": 1.5,
+        "stock": false,
+        "codigo": "ARE018-OR"
+      }
+    ]
+  },
+  {
+    "id": "p019",
+    "nombre": "Aretes Argolla",
+    "categoria": "aretes",
+    "categoriaLabel": "Aretes",
+    "icon": "drop",
+    "descripcion": "Par de aretes con broquel de seguridad, acabado brillante.",
+    "garantia": "6 meses contra defectos de fabricación",
+    "codigo": "ARE019",
+    "imagenes": [
+      "frontal",
+      "detalle",
+      "perfil",
+      "uso",
+      "empaque"
+    ],
+    "variantes": [
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 570,
+        "peso": 5.2,
+        "stock": false,
+        "codigo": "ARE019-PL"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 17500,
+        "peso": 5.4,
+        "stock": true,
+        "codigo": "ARE019-OR"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 20560,
+        "peso": 4.6,
+        "stock": true,
+        "codigo": "ARE019-OR"
+      }
+    ]
+  },
+  {
+    "id": "p020",
+    "nombre": "Aretes Colgantes",
+    "categoria": "aretes",
+    "categoriaLabel": "Aretes",
+    "icon": "drop",
+    "descripcion": "Par de aretes con broquel de seguridad, acabado brillante.",
+    "garantia": "6 meses contra defectos de fabricación",
+    "codigo": "ARE020",
+    "imagenes": [
+      "frontal",
+      "detalle",
+      "perfil",
+      "uso",
+      "empaque"
+    ],
+    "variantes": [
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 230,
+        "peso": 2.1,
+        "stock": true,
+        "codigo": "ARE020-PL"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 17170,
+        "peso": 5.3,
+        "stock": false,
+        "codigo": "ARE020-OR"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 8050,
+        "peso": 1.8,
+        "stock": true,
+        "codigo": "ARE020-OR"
+      }
+    ]
+  },
+  {
+    "id": "p021",
+    "nombre": "Dije Corazón",
+    "categoria": "dijes",
+    "categoriaLabel": "Dijes",
+    "icon": "heart",
+    "descripcion": "Dije con argolla reforzada, compatible con cadenas de hasta 4 mm de grosor.",
+    "garantia": "6 meses contra defectos de fabricación",
+    "codigo": "DIJ021",
+    "imagenes": [
+      "frontal",
+      "detalle",
+      "perfil",
+      "uso",
+      "empaque"
+    ],
+    "variantes": [
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 160,
+        "peso": 1.5,
+        "stock": true,
+        "codigo": "DIJ021-PL"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 7780,
+        "peso": 2.4,
+        "stock": true,
+        "codigo": "DIJ021-OR"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 18330,
+        "peso": 4.1,
+        "stock": true,
+        "codigo": "DIJ021-OR"
+      }
+    ]
+  },
+  {
+    "id": "p022",
+    "nombre": "Dije Cruz",
+    "categoria": "dijes",
+    "categoriaLabel": "Dijes",
+    "icon": "heart",
+    "descripcion": "Dije con argolla reforzada, compatible con cadenas de hasta 4 mm de grosor.",
+    "garantia": "6 meses contra defectos de fabricación",
+    "codigo": "DIJ022",
+    "imagenes": [
+      "frontal",
+      "detalle",
+      "perfil",
+      "uso",
+      "empaque"
+    ],
+    "variantes": [
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 580,
+        "peso": 5.3,
+        "stock": true,
+        "codigo": "DIJ022-PL"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 11660,
+        "peso": 3.6,
+        "stock": false,
+        "codigo": "DIJ022-OR"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 19220,
+        "peso": 4.3,
+        "stock": true,
+        "codigo": "DIJ022-OR"
+      }
+    ]
+  },
+  {
+    "id": "p023",
+    "nombre": "Dije Inicial",
+    "categoria": "dijes",
+    "categoriaLabel": "Dijes",
+    "icon": "heart",
+    "descripcion": "Dije con argolla reforzada, compatible con cadenas de hasta 4 mm de grosor.",
+    "garantia": "6 meses contra defectos de fabricación",
+    "codigo": "DIJ023",
+    "imagenes": [
+      "frontal",
+      "detalle",
+      "perfil",
+      "uso",
+      "empaque"
+    ],
+    "variantes": [
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 210,
+        "peso": 1.9,
+        "stock": true,
+        "codigo": "DIJ023-PL"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 11660,
+        "peso": 3.6,
+        "stock": true,
+        "codigo": "DIJ023-OR"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 13860,
+        "peso": 3.1,
+        "stock": true,
+        "codigo": "DIJ023-OR"
+      }
+    ]
+  },
+  {
+    "id": "p024",
+    "nombre": "Esclava Lisa",
+    "categoria": "esclavas",
+    "categoriaLabel": "Esclavas",
+    "icon": "disc",
+    "descripcion": "Esclava rígida de una sola pieza, ajuste estándar de muñeca.",
+    "garantia": "6 meses contra defectos de fabricación",
+    "codigo": "ESC024",
+    "imagenes": [
+      "frontal",
+      "detalle",
+      "perfil",
+      "uso",
+      "empaque"
+    ],
+    "variantes": [
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 520,
+        "peso": 4.7,
+        "stock": true,
+        "codigo": "ESC024-PL"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 4860,
+        "peso": 1.5,
+        "stock": true,
+        "codigo": "ESC024-OR"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 24580,
+        "peso": 5.5,
+        "stock": true,
+        "codigo": "ESC024-OR"
+      }
+    ]
+  },
+  {
+    "id": "p025",
+    "nombre": "Esclava Texturizada",
+    "categoria": "esclavas",
+    "categoriaLabel": "Esclavas",
+    "icon": "disc",
+    "descripcion": "Esclava rígida de una sola pieza, ajuste estándar de muñeca.",
+    "garantia": "6 meses contra defectos de fabricación",
+    "codigo": "ESC025",
+    "imagenes": [
+      "frontal",
+      "detalle",
+      "perfil",
+      "uso",
+      "empaque"
+    ],
+    "variantes": [
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 580,
+        "peso": 5.3,
+        "stock": true,
+        "codigo": "ESC025-PL"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 11020,
+        "peso": 3.4,
+        "stock": true,
+        "codigo": "ESC025-OR"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 16540,
+        "peso": 3.7,
+        "stock": true,
+        "codigo": "ESC025-OR"
+      }
+    ]
+  },
+  {
+    "id": "p026",
+    "nombre": "Juego Cadena y Pulsera",
+    "categoria": "juegos",
+    "categoriaLabel": "Juegos",
+    "icon": "grid",
+    "descripcion": "Set a conjunto en el mismo material y acabado, ideal para regalo.",
+    "garantia": "6 meses contra defectos de fabricación",
+    "codigo": "JUE026",
+    "imagenes": [
+      "frontal",
+      "detalle",
+      "perfil",
+      "uso",
+      "empaque"
+    ],
+    "variantes": [
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 580,
+        "peso": 5.3,
+        "stock": true,
+        "codigo": "JUE026-PL"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 5510,
+        "peso": 1.7,
+        "stock": true,
+        "codigo": "JUE026-OR"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 15640,
+        "peso": 3.5,
+        "stock": false,
+        "codigo": "JUE026-OR"
+      }
+    ]
+  },
+  {
+    "id": "p027",
+    "nombre": "Juego Aretes y Dije",
+    "categoria": "juegos",
+    "categoriaLabel": "Juegos",
+    "icon": "grid",
+    "descripcion": "Set a conjunto en el mismo material y acabado, ideal para regalo.",
+    "garantia": "6 meses contra defectos de fabricación",
+    "codigo": "JUE027",
+    "imagenes": [
+      "frontal",
+      "detalle",
+      "perfil",
+      "uso",
+      "empaque"
+    ],
+    "variantes": [
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 200,
+        "peso": 1.8,
+        "stock": true,
+        "codigo": "JUE027-PL"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 13610,
+        "peso": 4.2,
+        "stock": true,
+        "codigo": "JUE027-OR"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 10730,
+        "peso": 2.4,
+        "stock": true,
+        "codigo": "JUE027-OR"
+      }
+    ]
+  },
+  {
+    "id": "p028",
+    "nombre": "Placa con Nombre",
+    "categoria": "personalizados",
+    "categoriaLabel": "Personalizados",
+    "icon": "edit",
+    "descripcion": "Pieza personalizada: incluye grabado de nombre, fecha o iniciales a elegir.",
+    "garantia": "6 meses contra defectos de fabricación",
+    "codigo": "PER028",
+    "imagenes": [
+      "frontal",
+      "detalle",
+      "perfil",
+      "uso",
+      "empaque"
+    ],
+    "variantes": [
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 470,
+        "peso": 4.3,
+        "stock": false,
+        "codigo": "PER028-PL"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 9400,
+        "peso": 2.9,
+        "stock": false,
+        "codigo": "PER028-OR"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 10280,
+        "peso": 2.3,
+        "stock": true,
+        "codigo": "PER028-OR"
+      }
+    ]
+  },
+  {
+    "id": "p029",
+    "nombre": "Dije con Grabado",
+    "categoria": "personalizados",
+    "categoriaLabel": "Personalizados",
+    "icon": "edit",
+    "descripcion": "Pieza personalizada: incluye grabado de nombre, fecha o iniciales a elegir.",
+    "garantia": "6 meses contra defectos de fabricación",
+    "codigo": "PER029",
+    "imagenes": [
+      "frontal",
+      "detalle",
+      "perfil",
+      "uso",
+      "empaque"
+    ],
+    "variantes": [
+      {
+        "material": "plata-925",
+        "materialLabel": "Plata .925",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 500,
+        "peso": 4.5,
+        "stock": true,
+        "codigo": "PER029-PL"
+      },
+      {
+        "material": "oro-10k",
+        "materialLabel": "Oro de 10K",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 7450,
+        "peso": 2.3,
+        "stock": true,
+        "codigo": "PER029-OR"
+      },
+      {
+        "material": "oro-14k",
+        "materialLabel": "Oro de 14K",
+        "largo": null,
+        "ancho": null,
+        "talla": null,
+        "precio": 12070,
+        "peso": 2.7,
+        "stock": true,
+        "codigo": "PER029-OR"
+      }
+    ]
+  }
+]

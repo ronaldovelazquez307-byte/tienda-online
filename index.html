@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Aurum & Ley — Joyería en Oro y Plata</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Spectral:wght@300;400;500;600&family=Spectral+SC:wght@500&family=Inter:wght@400;500;600&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="ticker">
+  <div class="ticker-track mono">
+    <span>ORO 10K &nbsp;$650 / g&nbsp; <span class="up">▲ 0.3%</span></span>
+    <span>ORO 14K &nbsp;$980 / g&nbsp; <span class="up">▲ 0.4%</span></span>
+    <span>PLATA .925 &nbsp;$19.40 / g&nbsp; <span class="dn">▼ 0.2%</span></span>
+    <span>ORO 10K &nbsp;$650 / g&nbsp; <span class="up">▲ 0.3%</span></span>
+    <span>ORO 14K &nbsp;$980 / g&nbsp; <span class="up">▲ 0.4%</span></span>
+    <span>PLATA .925 &nbsp;$19.40 / g&nbsp; <span class="dn">▼ 0.2%</span></span>
+  </div>
+</div>
+
+<header>
+  <nav>
+    <a href="#/" class="logo" data-nav="#/">AURUM <em>&</em> LEY</a>
+    <div class="nav-links">
+      <a data-nav="#/">Inicio</a>
+      <a data-nav="#/buscar/">Catálogo</a>
+      <a href="#contacto">Contacto</a>
+    </div>
+    <div class="nav-right">
+      <form class="nav-search" id="searchForm">
+        <input type="text" id="searchInput" placeholder="Buscar joyería...">
+        <button type="submit" aria-label="Buscar">
+          <svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="11" cy="11" r="7"/><path d="M21 21l-4.3-4.3"/></svg>
+        </button>
+      </form>
+      <button class="icon-btn" id="favToggle" aria-label="Favoritos" data-nav="#/favoritos">
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M12 19s-6.5-4.2-6.5-9A3.8 3.8 0 0112 7.5 3.8 3.8 0 0118.5 10c0 4.8-6.5 9-6.5 9z"/></svg>
+      </button>
+      <button class="icon-btn" id="accountToggle" aria-label="Mi cuenta">
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><circle cx="12" cy="8" r="3.4"/><path d="M5 20c1.2-3.6 4-5.5 7-5.5s5.8 1.9 7 5.5"/></svg>
+      </button>
+      <button class="nav-cart" id="cartToggle" aria-label="Abrir carrito">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6"><path d="M3 4h2l2.4 12.4a2 2 0 002 1.6h8.2a2 2 0 002-1.6L21 8H6"/><circle cx="9" cy="20" r="1.4" fill="currentColor" stroke="none"/><circle cx="17" cy="20" r="1.4" fill="currentColor" stroke="none"/></svg>
+        <span class="cart-badge" id="cartBadge" style="display:none;">0</span>
+      </button>
+      <button class="burger" aria-label="Abrir menú"><span></span><span></span><span></span></button>
+    </div>
+  </nav>
+</header>
+
+<main id="app">
+  <!-- El contenido de esta zona lo genera script.js según la ruta (#/, #/categoria/..., #/producto/...) -->
+</main>
+
+<section class="contacto" id="contacto">
+  <div class="wrap">
+    <div>
+      <h2 class="serif">Solicita tu cotización</h2>
+      <p class="lead">Responde este formulario o escríbenos directo por WhatsApp. Confirmamos disponibilidad en minutos.</p>
+      <div class="info-row"><span class="label">WhatsApp</span><span>+52 </span></div>
+      <div class="info-row"><span class="label">Correo</span><span>contacto@aurumyley.mx</span></div>
+      <div class="info-row"><span class="label">Punto de venta</span><span>Lun–Sáb, 10:00–19:00 h</span></div>
+    </div>
+    <form id="contactoForm" onsubmit="event.preventDefault(); this.querySelector('.form-cta').textContent='Enviado ✓';">
+      <div class="field">
+        <label for="nombre">Nombre</label>
+        <input id="nombre" type="text" placeholder="Tu nombre" required>
+      </div>
+      <div class="field">
+        <label for="interes">Me interesa</label>
+        <select id="interes">
+          <option>Comprar joyería</option>
+          <option>Pieza a la medida / grabado</option>
+          <option>Vender una pieza</option>
+          <option>Otro</option>
+        </select>
+      </div>
+      <div class="field">
+        <label for="mensaje">Mensaje</label>
+        <textarea id="mensaje" placeholder="Cuéntanos qué buscas o qué pieza quieres cotizar"></textarea>
+      </div>
+      <button type="submit" class="btn-primary form-cta">Enviar solicitud</button>
+    </form>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <span>© 2026 Aurum & Ley</span>
+    <span class="fine">Precios de referencia sujetos a cambio · Ley verificada en punto de venta</span>
+  </div>
+</footer>
+
+<a class="wa-float" href="https://wa.me/52" id="waFloat" aria-label="Escribir por WhatsApp" target="_blank" rel="noopener">
+  <svg width="26" height="26" viewBox="0 0 24 24" fill="none">
+    <path d="M12 2C6.48 2 2 6.48 2 12c0 1.85.5 3.58 1.38 5.07L2 22l5.06-1.33A9.94 9.94 0 0012 22c5.52 0 10-4.48 10-10S17.52 2 12 2z" fill="#121110"/>
+    <path d="M8.5 8.2c.2-.45.4-.46.6-.47h.5c.16 0 .38-.06.6.46s.75 1.83.82 1.96c.07.14.11.3.02.48-.09.18-.14.29-.28.45s-.29.35-.42.47c-.14.13-.28.28-.12.55.16.27.7 1.15 1.5 1.87 1.03.92 1.9 1.2 2.17 1.34.27.14.43.12.6-.07.16-.19.68-.79.86-1.06.18-.27.36-.22.6-.13.24.09 1.55.73 1.82.87.27.14.45.2.51.32.06.12.06.68-.16 1.34-.22.66-1.28 1.24-1.78 1.31-.45.06-1.03.09-1.66-.1-.38-.12-.87-.28-1.5-.55-2.64-1.14-4.36-3.8-4.5-3.98-.13-.18-1.08-1.44-1.08-2.75 0-1.3.68-1.94.92-2.2z" fill="#e3c977"/>
+  </svg>
+</a>
+
+<div class="cart-overlay" id="cartOverlay"></div>
+<aside class="cart-drawer" id="cartDrawer" aria-label="Carrito de compras">
+  <div class="cart-head">
+    <h3 class="serif">Tu carrito</h3>
+    <button class="cart-close" id="cartClose" aria-label="Cerrar carrito">&times;</button>
+  </div>
+  <div class="cart-items" id="cartItems">
+    <p class="cart-empty">Tu carrito está vacío.</p>
+  </div>
+  <div class="cart-foot">
+    <div class="cart-line"><span>Subtotal</span><span class="amt" id="cartSubtotal">$0</span></div>
+    <div class="cart-line"><span>Envío</span><span class="amt" id="cartShipping">—</span></div>
+    <div class="cart-line total"><span>Total</span><span class="amt" id="cartTotal">$0</span></div>
+    <button class="btn-primary cart-checkout" id="cartCheckout">Finalizar compra</button>
+    <p class="cart-note">Envío gratis desde $3,000 MXN de compra.</p>
+  </div>
+</aside>
+
+<div class="checkout-overlay" id="checkoutOverlay">
+  <div class="checkout-modal"></div>
+</div>
+
+<div class="auth-overlay" id="authOverlay">
+  <div class="auth-modal" id="authModal"></div>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
