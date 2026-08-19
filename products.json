@@ -88,7 +88,7 @@
         "largo": 55,
         "ancho": 8,
         "talla": null,
-        "precio": 25000,
+        "precio": 25370,
         "peso": 8.3,
         "stock": true,
         "codigo": "CAD001-OR55x8"
@@ -99,7 +99,7 @@
         "largo": 55,
         "ancho": 4,
         "talla": null,
-        "precio": 13550,
+        "precio": 13760,
         "peso": 4.5,
         "stock": true,
         "codigo": "CAD001-OR55x4"
@@ -110,7 +110,7 @@
         "largo": 45,
         "ancho": 8,
         "talla": null,
-        "precio": 21080,
+        "precio": 21400,
         "peso": 7.0,
         "stock": false,
         "codigo": "CAD001-OR45x8"
@@ -121,7 +121,7 @@
         "largo": 45,
         "ancho": 4,
         "talla": null,
-        "precio": 9640,
+        "precio": 9780,
         "peso": 3.2,
         "stock": true,
         "codigo": "CAD001-OR45x4"
@@ -132,7 +132,7 @@
         "largo": 50,
         "ancho": 8,
         "talla": null,
-        "precio": 22590,
+        "precio": 22930,
         "peso": 7.5,
         "stock": true,
         "codigo": "CAD001-OR50x8"
@@ -143,7 +143,7 @@
         "largo": 50,
         "ancho": 4,
         "talla": null,
-        "precio": 11440,
+        "precio": 11620,
         "peso": 3.8,
         "stock": true,
         "codigo": "CAD001-OR50x4"
@@ -154,7 +154,7 @@
         "largo": 55,
         "ancho": 8,
         "talla": null,
-        "precio": 36330,
+        "precio": 36880,
         "peso": 8.6,
         "stock": true,
         "codigo": "CAD001-OR55x8"
@@ -165,7 +165,7 @@
         "largo": 55,
         "ancho": 4,
         "talla": null,
-        "precio": 18170,
+        "precio": 18440,
         "peso": 4.3,
         "stock": true,
         "codigo": "CAD001-OR55x4"
@@ -176,7 +176,7 @@
         "largo": 45,
         "ancho": 8,
         "talla": null,
-        "precio": 28730,
+        "precio": 29160,
         "peso": 6.8,
         "stock": true,
         "codigo": "CAD001-OR45x8"
@@ -187,7 +187,7 @@
         "largo": 45,
         "ancho": 4,
         "talla": null,
-        "precio": 14360,
+        "precio": 14580,
         "peso": 3.4,
         "stock": true,
         "codigo": "CAD001-OR45x4"
@@ -198,7 +198,7 @@
         "largo": 50,
         "ancho": 8,
         "talla": null,
-        "precio": 32950,
+        "precio": 33450,
         "peso": 7.8,
         "stock": true,
         "codigo": "CAD001-OR50x8"
@@ -209,7 +209,7 @@
         "largo": 50,
         "ancho": 4,
         "talla": null,
-        "precio": 16480,
+        "precio": 16720,
         "peso": 3.9,
         "stock": false,
         "codigo": "CAD001-OR50x4"
@@ -261,7 +261,7 @@
         "largo": 50,
         "ancho": 6,
         "talla": null,
-        "precio": 550,
+        "precio": 560,
         "peso": 5.6,
         "stock": true,
         "codigo": "CAD002-PL50x6"
@@ -305,7 +305,7 @@
         "largo": 55,
         "ancho": 6,
         "talla": null,
-        "precio": 18670,
+        "precio": 18950,
         "peso": 6.2,
         "stock": false,
         "codigo": "CAD002-OR55x6"
@@ -316,7 +316,7 @@
         "largo": 55,
         "ancho": 8,
         "talla": null,
-        "precio": 25300,
+        "precio": 25680,
         "peso": 8.4,
         "stock": true,
         "codigo": "CAD002-OR55x8"
@@ -327,7 +327,7 @@
         "largo": 50,
         "ancho": 6,
         "talla": null,
-        "precio": 16870,
+        "precio": 17120,
         "peso": 5.6,
         "stock": false,
         "codigo": "CAD002-OR50x6"
@@ -338,7 +338,7 @@
         "largo": 50,
         "ancho": 8,
         "talla": null,
-        "precio": 23190,
+        "precio": 23540,
         "peso": 7.7,
         "stock": true,
         "codigo": "CAD002-OR50x8"
@@ -349,7 +349,7 @@
         "largo": 60,
         "ancho": 6,
         "talla": null,
-        "precio": 21680,
+        "precio": 22010,
         "peso": 7.2,
         "stock": true,
         "codigo": "CAD002-OR60x6"
@@ -360,7 +360,7 @@
         "largo": 60,
         "ancho": 8,
         "talla": null,
-        "precio": 27710,
+        "precio": 28120,
         "peso": 9.2,
         "stock": true,
         "codigo": "CAD002-OR60x8"
@@ -371,7 +371,7 @@
         "largo": 55,
         "ancho": 6,
         "talla": null,
-        "precio": 27460,
+        "precio": 27870,
         "peso": 6.5,
         "stock": false,
         "codigo": "CAD002-OR55x6"
@@ -382,7 +382,7 @@
         "largo": 55,
         "ancho": 8,
         "talla": null,
-        "precio": 35070,
+        "precio": 35590,
         "peso": 8.3,
         "stock": true,
         "codigo": "CAD002-OR55x8"
@@ -393,7 +393,7 @@
         "largo": 50,
         "ancho": 6,
         "talla": null,
-        "precio": 25770,
+        "precio": 26160,
         "peso": 6.1,
         "stock": false,
         "codigo": "CAD002-OR50x6"
@@ -404,7 +404,7 @@
         "largo": 50,
         "ancho": 8,
         "talla": null,
-        "precio": 33380,
+        "precio": 33880,
         "peso": 7.9,
         "stock": true,
         "codigo": "CAD002-OR50x8"
@@ -415,7 +415,7 @@
         "largo": 60,
         "ancho": 6,
         "talla": null,
-        "precio": 28310,
+        "precio": 28730,
         "peso": 6.7,
         "stock": true,
         "codigo": "CAD002-OR60x6"
@@ -426,7 +426,7 @@
         "largo": 60,
         "ancho": 8,
         "talla": null,
-        "precio": 39710,
+        "precio": 40310,
         "peso": 9.4,
         "stock": false,
         "codigo": "CAD002-OR60x8"
@@ -511,7 +511,7 @@
         "largo": 50,
         "ancho": 6,
         "talla": null,
-        "precio": 570,
+        "precio": 580,
         "peso": 5.8,
         "stock": false,
         "codigo": "CAD003-PL50x6"
@@ -522,7 +522,7 @@
         "largo": 55,
         "ancho": 8,
         "talla": null,
-        "precio": 25000,
+        "precio": 25370,
         "peso": 8.3,
         "stock": false,
         "codigo": "CAD003-OR55x8"
@@ -533,7 +533,7 @@
         "largo": 55,
         "ancho": 6,
         "talla": null,
-        "precio": 19270,
+        "precio": 19560,
         "peso": 6.4,
         "stock": true,
         "codigo": "CAD003-OR55x6"
@@ -544,7 +544,7 @@
         "largo": 60,
         "ancho": 8,
         "talla": null,
-        "precio": 28910,
+        "precio": 29340,
         "peso": 9.6,
         "stock": false,
         "codigo": "CAD003-OR60x8"
@@ -555,7 +555,7 @@
         "largo": 60,
         "ancho": 6,
         "talla": null,
-        "precio": 21680,
+        "precio": 22010,
         "peso": 7.2,
         "stock": true,
         "codigo": "CAD003-OR60x6"
@@ -566,7 +566,7 @@
         "largo": 50,
         "ancho": 8,
         "talla": null,
-        "precio": 23790,
+        "precio": 24150,
         "peso": 7.9,
         "stock": true,
         "codigo": "CAD003-OR50x8"
@@ -577,7 +577,7 @@
         "largo": 50,
         "ancho": 6,
         "talla": null,
-        "precio": 17770,
+        "precio": 18030,
         "peso": 5.9,
         "stock": false,
         "codigo": "CAD003-OR50x6"
@@ -588,7 +588,7 @@
         "largo": 55,
         "ancho": 8,
         "talla": null,
-        "precio": 37180,
+        "precio": 37740,
         "peso": 8.8,
         "stock": true,
         "codigo": "CAD003-OR55x8"
@@ -599,7 +599,7 @@
         "largo": 55,
         "ancho": 6,
         "talla": null,
-        "precio": 26190,
+        "precio": 26590,
         "peso": 6.2,
         "stock": true,
         "codigo": "CAD003-OR55x6"
@@ -610,7 +610,7 @@
         "largo": 60,
         "ancho": 8,
         "talla": null,
-        "precio": 38870,
+        "precio": 39450,
         "peso": 9.2,
         "stock": true,
         "codigo": "CAD003-OR60x8"
@@ -621,7 +621,7 @@
         "largo": 60,
         "ancho": 6,
         "talla": null,
-        "precio": 28310,
+        "precio": 28730,
         "peso": 6.7,
         "stock": true,
         "codigo": "CAD003-OR60x6"
@@ -632,7 +632,7 @@
         "largo": 50,
         "ancho": 8,
         "talla": null,
-        "precio": 32110,
+        "precio": 32590,
         "peso": 7.6,
         "stock": true,
         "codigo": "CAD003-OR50x8"
@@ -643,7 +643,7 @@
         "largo": 50,
         "ancho": 6,
         "talla": null,
-        "precio": 23660,
+        "precio": 24010,
         "peso": 5.6,
         "stock": true,
         "codigo": "CAD003-OR50x6"
@@ -695,7 +695,7 @@
         "largo": 45,
         "ancho": 6,
         "talla": null,
-        "precio": 490,
+        "precio": 500,
         "peso": 5.0,
         "stock": true,
         "codigo": "CAD004-PL45x6"
@@ -739,7 +739,7 @@
         "largo": 55,
         "ancho": 6,
         "talla": null,
-        "precio": 18370,
+        "precio": 18650,
         "peso": 6.1,
         "stock": true,
         "codigo": "CAD004-OR55x6"
@@ -750,7 +750,7 @@
         "largo": 55,
         "ancho": 8,
         "talla": null,
-        "precio": 25900,
+        "precio": 26290,
         "peso": 8.6,
         "stock": true,
         "codigo": "CAD004-OR55x8"
@@ -761,7 +761,7 @@
         "largo": 45,
         "ancho": 6,
         "talla": null,
-        "precio": 15960,
+        "precio": 16200,
         "peso": 5.3,
         "stock": true,
         "codigo": "CAD004-OR45x6"
@@ -772,7 +772,7 @@
         "largo": 45,
         "ancho": 8,
         "talla": null,
-        "precio": 21680,
+        "precio": 22010,
         "peso": 7.2,
         "stock": false,
         "codigo": "CAD004-OR45x8"
@@ -783,7 +783,7 @@
         "largo": 60,
         "ancho": 6,
         "talla": null,
-        "precio": 20480,
+        "precio": 20790,
         "peso": 6.8,
         "stock": true,
         "codigo": "CAD004-OR60x6"
@@ -794,7 +794,7 @@
         "largo": 60,
         "ancho": 8,
         "talla": null,
-        "precio": 28910,
+        "precio": 29340,
         "peso": 9.6,
         "stock": true,
         "codigo": "CAD004-OR60x8"
@@ -805,7 +805,7 @@
         "largo": 55,
         "ancho": 6,
         "talla": null,
-        "precio": 27040,
+        "precio": 27440,
         "peso": 6.4,
         "stock": true,
         "codigo": "CAD004-OR55x6"
@@ -816,7 +816,7 @@
         "largo": 55,
         "ancho": 8,
         "talla": null,
-        "precio": 37180,
+        "precio": 37740,
         "peso": 8.8,
         "stock": false,
         "codigo": "CAD004-OR55x8"
@@ -827,7 +827,7 @@
         "largo": 45,
         "ancho": 6,
         "talla": null,
-        "precio": 21970,
+        "precio": 22300,
         "peso": 5.2,
         "stock": true,
         "codigo": "CAD004-OR45x6"
@@ -838,7 +838,7 @@
         "largo": 45,
         "ancho": 8,
         "talla": null,
-        "precio": 28730,
+        "precio": 29160,
         "peso": 6.8,
         "stock": true,
         "codigo": "CAD004-OR45x8"
@@ -849,7 +849,7 @@
         "largo": 60,
         "ancho": 6,
         "talla": null,
-        "precio": 30000,
+        "precio": 30450,
         "peso": 7.1,
         "stock": true,
         "codigo": "CAD004-OR60x6"
@@ -860,7 +860,7 @@
         "largo": 60,
         "ancho": 8,
         "talla": null,
-        "precio": 39290,
+        "precio": 39880,
         "peso": 9.3,
         "stock": true,
         "codigo": "CAD004-OR60x8"
@@ -912,7 +912,7 @@
         "largo": 60,
         "ancho": 4,
         "talla": null,
-        "precio": 470,
+        "precio": 480,
         "peso": 4.8,
         "stock": true,
         "codigo": "CAD005-PL60x4"
@@ -956,7 +956,7 @@
         "largo": 45,
         "ancho": 4,
         "talla": null,
-        "precio": 10840,
+        "precio": 11000,
         "peso": 3.6,
         "stock": true,
         "codigo": "CAD005-OR45x4"
@@ -967,7 +967,7 @@
         "largo": 45,
         "ancho": 8,
         "talla": null,
-        "precio": 21680,
+        "precio": 22010,
         "peso": 7.2,
         "stock": false,
         "codigo": "CAD005-OR45x8"
@@ -978,7 +978,7 @@
         "largo": 60,
         "ancho": 4,
         "talla": null,
-        "precio": 14460,
+        "precio": 14670,
         "peso": 4.8,
         "stock": true,
         "codigo": "CAD005-OR60x4"
@@ -989,7 +989,7 @@
         "largo": 60,
         "ancho": 8,
         "talla": null,
-        "precio": 27710,
+        "precio": 28120,
         "peso": 9.2,
         "stock": false,
         "codigo": "CAD005-OR60x8"
@@ -1000,7 +1000,7 @@
         "largo": 50,
         "ancho": 4,
         "talla": null,
-        "precio": 11440,
+        "precio": 11620,
         "peso": 3.8,
         "stock": true,
         "codigo": "CAD005-OR50x4"
@@ -1011,7 +1011,7 @@
         "largo": 50,
         "ancho": 8,
         "talla": null,
-        "precio": 24390,
+        "precio": 24760,
         "peso": 8.1,
         "stock": true,
         "codigo": "CAD005-OR50x8"
@@ -1022,7 +1022,7 @@
         "largo": 45,
         "ancho": 4,
         "talla": null,
-        "precio": 14790,
+        "precio": 15010,
         "peso": 3.5,
         "stock": true,
         "codigo": "CAD005-OR45x4"
@@ -1033,7 +1033,7 @@
         "largo": 45,
         "ancho": 8,
         "talla": null,
-        "precio": 30000,
+        "precio": 30450,
         "peso": 7.1,
         "stock": true,
         "codigo": "CAD005-OR45x8"
@@ -1044,7 +1044,7 @@
         "largo": 60,
         "ancho": 4,
         "talla": null,
-        "precio": 19430,
+        "precio": 19730,
         "peso": 4.6,
         "stock": true,
         "codigo": "CAD005-OR60x4"
@@ -1055,7 +1055,7 @@
         "largo": 60,
         "ancho": 8,
         "talla": null,
-        "precio": 40560,
+        "precio": 41170,
         "peso": 9.6,
         "stock": true,
         "codigo": "CAD005-OR60x8"
@@ -1066,7 +1066,7 @@
         "largo": 50,
         "ancho": 4,
         "talla": null,
-        "precio": 15210,
+        "precio": 15440,
         "peso": 3.6,
         "stock": true,
         "codigo": "CAD005-OR50x4"
@@ -1077,7 +1077,7 @@
         "largo": 50,
         "ancho": 8,
         "talla": null,
-        "precio": 32110,
+        "precio": 32590,
         "peso": 7.6,
         "stock": true,
         "codigo": "CAD005-OR50x8"
@@ -1173,7 +1173,7 @@
         "largo": 55,
         "ancho": 8,
         "talla": null,
-        "precio": 25000,
+        "precio": 25370,
         "peso": 8.3,
         "stock": false,
         "codigo": "CAD006-OR55x8"
@@ -1184,7 +1184,7 @@
         "largo": 55,
         "ancho": 4,
         "talla": null,
-        "precio": 12950,
+        "precio": 13140,
         "peso": 4.3,
         "stock": true,
         "codigo": "CAD006-OR55x4"
@@ -1195,7 +1195,7 @@
         "largo": 45,
         "ancho": 8,
         "talla": null,
-        "precio": 21380,
+        "precio": 21700,
         "peso": 7.1,
         "stock": true,
         "codigo": "CAD006-OR45x8"
@@ -1206,7 +1206,7 @@
         "largo": 45,
         "ancho": 4,
         "talla": null,
-        "precio": 11440,
+        "precio": 11620,
         "peso": 3.8,
         "stock": true,
         "codigo": "CAD006-OR45x4"
@@ -1217,7 +1217,7 @@
         "largo": 50,
         "ancho": 8,
         "talla": null,
-        "precio": 22890,
+        "precio": 23230,
         "peso": 7.6,
         "stock": false,
         "codigo": "CAD006-OR50x8"
@@ -1228,7 +1228,7 @@
         "largo": 50,
         "ancho": 4,
         "talla": null,
-        "precio": 12350,
+        "precio": 12530,
         "peso": 4.1,
         "stock": true,
         "codigo": "CAD006-OR50x4"
@@ -1239,7 +1239,7 @@
         "largo": 55,
         "ancho": 8,
         "talla": null,
-        "precio": 36330,
+        "precio": 36880,
         "peso": 8.6,
         "stock": false,
         "codigo": "CAD006-OR55x8"
@@ -1250,7 +1250,7 @@
         "largo": 55,
         "ancho": 4,
         "talla": null,
-        "precio": 18590,
+        "precio": 18870,
         "peso": 4.4,
         "stock": true,
         "codigo": "CAD006-OR55x4"
@@ -1261,7 +1261,7 @@
         "largo": 45,
         "ancho": 8,
         "talla": null,
-        "precio": 28730,
+        "precio": 29160,
         "peso": 6.8,
         "stock": true,
         "codigo": "CAD006-OR45x8"
@@ -1272,7 +1272,7 @@
         "largo": 45,
         "ancho": 4,
         "talla": null,
-        "precio": 13520,
+        "precio": 13720,
         "peso": 3.2,
         "stock": true,
         "codigo": "CAD006-OR45x4"
@@ -1283,7 +1283,7 @@
         "largo": 50,
         "ancho": 8,
         "talla": null,
-        "precio": 32950,
+        "precio": 33450,
         "peso": 7.8,
         "stock": true,
         "codigo": "CAD006-OR50x8"
@@ -1294,7 +1294,7 @@
         "largo": 50,
         "ancho": 4,
         "talla": null,
-        "precio": 16050,
+        "precio": 16300,
         "peso": 3.8,
         "stock": true,
         "codigo": "CAD006-OR50x4"
@@ -1335,7 +1335,7 @@
         "largo": 50,
         "ancho": 6,
         "talla": null,
-        "precio": 560,
+        "precio": 570,
         "peso": 5.7,
         "stock": false,
         "codigo": "CAD007-PL50x6"
@@ -1357,7 +1357,7 @@
         "largo": 45,
         "ancho": 6,
         "talla": null,
-        "precio": 540,
+        "precio": 550,
         "peso": 5.5,
         "stock": true,
         "codigo": "CAD007-PL45x6"
@@ -1368,7 +1368,7 @@
         "largo": 60,
         "ancho": 4,
         "talla": null,
-        "precio": 480,
+        "precio": 490,
         "peso": 4.9,
         "stock": false,
         "codigo": "CAD007-PL60x4"
@@ -1390,7 +1390,7 @@
         "largo": 50,
         "ancho": 4,
         "talla": null,
-        "precio": 11750,
+        "precio": 11920,
         "peso": 3.9,
         "stock": true,
         "codigo": "CAD007-OR50x4"
@@ -1401,7 +1401,7 @@
         "largo": 50,
         "ancho": 6,
         "talla": null,
-        "precio": 18370,
+        "precio": 18650,
         "peso": 6.1,
         "stock": true,
         "codigo": "CAD007-OR50x6"
@@ -1412,7 +1412,7 @@
         "largo": 45,
         "ancho": 4,
         "talla": null,
-        "precio": 10840,
+        "precio": 11000,
         "peso": 3.6,
         "stock": true,
         "codigo": "CAD007-OR45x4"
@@ -1423,7 +1423,7 @@
         "largo": 45,
         "ancho": 6,
         "talla": null,
-        "precio": 15360,
+        "precio": 15590,
         "peso": 5.1,
         "stock": false,
         "codigo": "CAD007-OR45x6"
@@ -1434,7 +1434,7 @@
         "largo": 60,
         "ancho": 4,
         "talla": null,
-        "precio": 14150,
+        "precio": 14370,
         "peso": 4.7,
         "stock": true,
         "codigo": "CAD007-OR60x4"
@@ -1445,7 +1445,7 @@
         "largo": 60,
         "ancho": 6,
         "talla": null,
-        "precio": 21080,
+        "precio": 21400,
         "peso": 7.0,
         "stock": true,
         "codigo": "CAD007-OR60x6"
@@ -1456,7 +1456,7 @@
         "largo": 50,
         "ancho": 4,
         "talla": null,
-        "precio": 16900,
+        "precio": 17150,
         "peso": 4.0,
         "stock": false,
         "codigo": "CAD007-OR50x4"
@@ -1467,7 +1467,7 @@
         "largo": 50,
         "ancho": 6,
         "talla": null,
-        "precio": 25350,
+        "precio": 25730,
         "peso": 6.0,
         "stock": true,
         "codigo": "CAD007-OR50x6"
@@ -1478,7 +1478,7 @@
         "largo": 45,
         "ancho": 4,
         "talla": null,
-        "precio": 15630,
+        "precio": 15870,
         "peso": 3.7,
         "stock": true,
         "codigo": "CAD007-OR45x4"
@@ -1489,7 +1489,7 @@
         "largo": 45,
         "ancho": 6,
         "talla": null,
-        "precio": 21550,
+        "precio": 21870,
         "peso": 5.1,
         "stock": true,
         "codigo": "CAD007-OR45x6"
@@ -1500,7 +1500,7 @@
         "largo": 60,
         "ancho": 4,
         "talla": null,
-        "precio": 18590,
+        "precio": 18870,
         "peso": 4.4,
         "stock": true,
         "codigo": "CAD007-OR60x4"
@@ -1511,7 +1511,7 @@
         "largo": 60,
         "ancho": 6,
         "talla": null,
-        "precio": 29570,
+        "precio": 30020,
         "peso": 7.0,
         "stock": true,
         "codigo": "CAD007-OR60x6"
@@ -1607,7 +1607,7 @@
         "largo": 45,
         "ancho": 8,
         "talla": null,
-        "precio": 20780,
+        "precio": 21090,
         "peso": 6.9,
         "stock": false,
         "codigo": "PUL008-OR45x8"
@@ -1618,7 +1618,7 @@
         "largo": 45,
         "ancho": 4,
         "talla": null,
-        "precio": 10540,
+        "precio": 10700,
         "peso": 3.5,
         "stock": true,
         "codigo": "PUL008-OR45x4"
@@ -1629,7 +1629,7 @@
         "largo": 50,
         "ancho": 8,
         "talla": null,
-        "precio": 23790,
+        "precio": 24150,
         "peso": 7.9,
         "stock": false,
         "codigo": "PUL008-OR50x8"
@@ -1640,7 +1640,7 @@
         "largo": 50,
         "ancho": 4,
         "talla": null,
-        "precio": 10840,
+        "precio": 11000,
         "peso": 3.6,
         "stock": true,
         "codigo": "PUL008-OR50x4"
@@ -1651,7 +1651,7 @@
         "largo": 55,
         "ancho": 8,
         "talla": null,
-        "precio": 26200,
+        "precio": 26590,
         "peso": 8.7,
         "stock": true,
         "codigo": "PUL008-OR55x8"
@@ -1662,7 +1662,7 @@
         "largo": 55,
         "ancho": 4,
         "talla": null,
-        "precio": 13550,
+        "precio": 13760,
         "peso": 4.5,
         "stock": true,
         "codigo": "PUL008-OR55x4"
@@ -1673,7 +1673,7 @@
         "largo": 45,
         "ancho": 8,
         "talla": null,
-        "precio": 28730,
+        "precio": 29160,
         "peso": 6.8,
         "stock": true,
         "codigo": "PUL008-OR45x8"
@@ -1684,7 +1684,7 @@
         "largo": 45,
         "ancho": 4,
         "talla": null,
-        "precio": 16050,
+        "precio": 16300,
         "peso": 3.8,
         "stock": true,
         "codigo": "PUL008-OR45x4"
@@ -1695,7 +1695,7 @@
         "largo": 50,
         "ancho": 8,
         "talla": null,
-        "precio": 33380,
+        "precio": 33880,
         "peso": 7.9,
         "stock": true,
         "codigo": "PUL008-OR50x8"
@@ -1706,7 +1706,7 @@
         "largo": 50,
         "ancho": 4,
         "talla": null,
-        "precio": 16050,
+        "precio": 16300,
         "peso": 3.8,
         "stock": false,
         "codigo": "PUL008-OR50x4"
@@ -1717,7 +1717,7 @@
         "largo": 55,
         "ancho": 8,
         "talla": null,
-        "precio": 35490,
+        "precio": 36020,
         "peso": 8.4,
         "stock": true,
         "codigo": "PUL008-OR55x8"
@@ -1728,7 +1728,7 @@
         "largo": 55,
         "ancho": 4,
         "talla": null,
-        "precio": 17320,
+        "precio": 17580,
         "peso": 4.1,
         "stock": false,
         "codigo": "PUL008-OR55x4"
@@ -1791,7 +1791,7 @@
         "largo": 50,
         "ancho": 6,
         "talla": null,
-        "precio": 570,
+        "precio": 580,
         "peso": 5.8,
         "stock": true,
         "codigo": "PUL009-PL50x6"
@@ -1824,7 +1824,7 @@
         "largo": 60,
         "ancho": 4,
         "talla": null,
-        "precio": 14760,
+        "precio": 14980,
         "peso": 4.9,
         "stock": true,
         "codigo": "PUL009-OR60x4"
@@ -1835,7 +1835,7 @@
         "largo": 60,
         "ancho": 6,
         "talla": null,
-        "precio": 20480,
+        "precio": 20790,
         "peso": 6.8,
         "stock": true,
         "codigo": "PUL009-OR60x6"
@@ -1846,7 +1846,7 @@
         "largo": 50,
         "ancho": 4,
         "talla": null,
-        "precio": 10840,
+        "precio": 11000,
         "peso": 3.6,
         "stock": true,
         "codigo": "PUL009-OR50x4"
@@ -1857,7 +1857,7 @@
         "largo": 50,
         "ancho": 6,
         "talla": null,
-        "precio": 17170,
+        "precio": 17420,
         "peso": 5.7,
         "stock": true,
         "codigo": "PUL009-OR50x6"
@@ -1868,7 +1868,7 @@
         "largo": 55,
         "ancho": 4,
         "talla": null,
-        "precio": 13550,
+        "precio": 13760,
         "peso": 4.5,
         "stock": true,
         "codigo": "PUL009-OR55x4"
@@ -1879,7 +1879,7 @@
         "largo": 55,
         "ancho": 6,
         "talla": null,
-        "precio": 19270,
+        "precio": 19560,
         "peso": 6.4,
         "stock": false,
         "codigo": "PUL009-OR55x6"
@@ -1890,7 +1890,7 @@
         "largo": 60,
         "ancho": 4,
         "talla": null,
-        "precio": 20280,
+        "precio": 20580,
         "peso": 4.8,
         "stock": true,
         "codigo": "PUL009-OR60x4"
@@ -1901,7 +1901,7 @@
         "largo": 60,
         "ancho": 6,
         "talla": null,
-        "precio": 29150,
+        "precio": 29590,
         "peso": 6.9,
         "stock": true,
         "codigo": "PUL009-OR60x6"
@@ -1912,7 +1912,7 @@
         "largo": 50,
         "ancho": 4,
         "talla": null,
-        "precio": 16050,
+        "precio": 16300,
         "peso": 3.8,
         "stock": true,
         "codigo": "PUL009-OR50x4"
@@ -1923,7 +1923,7 @@
         "largo": 50,
         "ancho": 6,
         "talla": null,
-        "precio": 24080,
+        "precio": 24440,
         "peso": 5.7,
         "stock": true,
         "codigo": "PUL009-OR50x6"
@@ -1934,7 +1934,7 @@
         "largo": 55,
         "ancho": 4,
         "talla": null,
-        "precio": 18590,
+        "precio": 18870,
         "peso": 4.4,
         "stock": true,
         "codigo": "PUL009-OR55x4"
@@ -1945,7 +1945,7 @@
         "largo": 55,
         "ancho": 6,
         "talla": null,
-        "precio": 26190,
+        "precio": 26590,
         "peso": 6.2,
         "stock": true,
         "codigo": "PUL009-OR55x6"
@@ -1975,7 +1975,7 @@
         "largo": 45,
         "ancho": 6,
         "talla": null,
-        "precio": 510,
+        "precio": 520,
         "peso": 5.2,
         "stock": false,
         "codigo": "PUL010-PL45x6"
@@ -1997,7 +1997,7 @@
         "largo": 50,
         "ancho": 6,
         "talla": null,
-        "precio": 580,
+        "precio": 590,
         "peso": 5.9,
         "stock": true,
         "codigo": "PUL010-PL50x6"
@@ -2041,7 +2041,7 @@
         "largo": 45,
         "ancho": 6,
         "talla": null,
-        "precio": 15360,
+        "precio": 15590,
         "peso": 5.1,
         "stock": true,
         "codigo": "PUL010-OR45x6"
@@ -2052,7 +2052,7 @@
         "largo": 45,
         "ancho": 4,
         "talla": null,
-        "precio": 10840,
+        "precio": 11000,
         "peso": 3.6,
         "stock": true,
         "codigo": "PUL010-OR45x4"
@@ -2063,7 +2063,7 @@
         "largo": 50,
         "ancho": 6,
         "talla": null,
-        "precio": 17170,
+        "precio": 17420,
         "peso": 5.7,
         "stock": true,
         "codigo": "PUL010-OR50x6"
@@ -2074,7 +2074,7 @@
         "largo": 50,
         "ancho": 4,
         "talla": null,
-        "precio": 11440,
+        "precio": 11620,
         "peso": 3.8,
         "stock": true,
         "codigo": "PUL010-OR50x4"
@@ -2085,7 +2085,7 @@
         "largo": 60,
         "ancho": 6,
         "talla": null,
-        "precio": 21980,
+        "precio": 22310,
         "peso": 7.3,
         "stock": true,
         "codigo": "PUL010-OR60x6"
@@ -2096,7 +2096,7 @@
         "largo": 60,
         "ancho": 4,
         "talla": null,
-        "precio": 13250,
+        "precio": 13450,
         "peso": 4.4,
         "stock": true,
         "codigo": "PUL010-OR60x4"
@@ -2107,7 +2107,7 @@
         "largo": 45,
         "ancho": 6,
         "talla": null,
-        "precio": 22390,
+        "precio": 22730,
         "peso": 5.3,
         "stock": true,
         "codigo": "PUL010-OR45x6"
@@ -2118,7 +2118,7 @@
         "largo": 45,
         "ancho": 4,
         "talla": null,
-        "precio": 16050,
+        "precio": 16300,
         "peso": 3.8,
         "stock": true,
         "codigo": "PUL010-OR45x4"
@@ -2129,7 +2129,7 @@
         "largo": 50,
         "ancho": 6,
         "talla": null,
-        "precio": 24930,
+        "precio": 25300,
         "peso": 5.9,
         "stock": false,
         "codigo": "PUL010-OR50x6"
@@ -2140,7 +2140,7 @@
         "largo": 50,
         "ancho": 4,
         "talla": null,
-        "precio": 16900,
+        "precio": 17150,
         "peso": 4.0,
         "stock": false,
         "codigo": "PUL010-OR50x4"
@@ -2151,7 +2151,7 @@
         "largo": 60,
         "ancho": 6,
         "talla": null,
-        "precio": 30840,
+        "precio": 31300,
         "peso": 7.3,
         "stock": true,
         "codigo": "PUL010-OR60x6"
@@ -2162,7 +2162,7 @@
         "largo": 60,
         "ancho": 4,
         "talla": null,
-        "precio": 20280,
+        "precio": 20580,
         "peso": 4.8,
         "stock": true,
         "codigo": "PUL010-OR60x4"
@@ -2214,7 +2214,7 @@
         "largo": 45,
         "ancho": 6,
         "talla": null,
-        "precio": 510,
+        "precio": 520,
         "peso": 5.2,
         "stock": true,
         "codigo": "ROS011-PL45x6"
@@ -2258,7 +2258,7 @@
         "largo": 55,
         "ancho": 6,
         "talla": null,
-        "precio": 18370,
+        "precio": 18650,
         "peso": 6.1,
         "stock": true,
         "codigo": "ROS011-OR55x6"
@@ -2269,7 +2269,7 @@
         "largo": 55,
         "ancho": 8,
         "talla": null,
-        "precio": 25300,
+        "precio": 25680,
         "peso": 8.4,
         "stock": false,
         "codigo": "ROS011-OR55x8"
@@ -2280,7 +2280,7 @@
         "largo": 45,
         "ancho": 6,
         "talla": null,
-        "precio": 15060,
+        "precio": 15280,
         "peso": 5.0,
         "stock": true,
         "codigo": "ROS011-OR45x6"
@@ -2291,7 +2291,7 @@
         "largo": 45,
         "ancho": 8,
         "talla": null,
-        "precio": 21980,
+        "precio": 22310,
         "peso": 7.3,
         "stock": true,
         "codigo": "ROS011-OR45x8"
@@ -2302,7 +2302,7 @@
         "largo": 60,
         "ancho": 6,
         "talla": null,
-        "precio": 20480,
+        "precio": 20790,
         "peso": 6.8,
         "stock": true,
         "codigo": "ROS011-OR60x6"
@@ -2313,7 +2313,7 @@
         "largo": 60,
         "ancho": 8,
         "talla": null,
-        "precio": 27710,
+        "precio": 28120,
         "peso": 9.2,
         "stock": true,
         "codigo": "ROS011-OR60x8"
@@ -2324,7 +2324,7 @@
         "largo": 55,
         "ancho": 6,
         "talla": null,
-        "precio": 25770,
+        "precio": 26160,
         "peso": 6.1,
         "stock": false,
         "codigo": "ROS011-OR55x6"
@@ -2335,7 +2335,7 @@
         "largo": 55,
         "ancho": 8,
         "talla": null,
-        "precio": 35070,
+        "precio": 35590,
         "peso": 8.3,
         "stock": true,
         "codigo": "ROS011-OR55x8"
@@ -2346,7 +2346,7 @@
         "largo": 45,
         "ancho": 6,
         "talla": null,
-        "precio": 22390,
+        "precio": 22730,
         "peso": 5.3,
         "stock": true,
         "codigo": "ROS011-OR45x6"
@@ -2357,7 +2357,7 @@
         "largo": 45,
         "ancho": 8,
         "talla": null,
-        "precio": 28730,
+        "precio": 29160,
         "peso": 6.8,
         "stock": true,
         "codigo": "ROS011-OR45x8"
@@ -2368,7 +2368,7 @@
         "largo": 60,
         "ancho": 6,
         "talla": null,
-        "precio": 28730,
+        "precio": 29160,
         "peso": 6.8,
         "stock": true,
         "codigo": "ROS011-OR60x6"
@@ -2379,7 +2379,7 @@
         "largo": 60,
         "ancho": 8,
         "talla": null,
-        "precio": 38450,
+        "precio": 39020,
         "peso": 9.1,
         "stock": true,
         "codigo": "ROS011-OR60x8"
@@ -2420,7 +2420,7 @@
         "largo": 60,
         "ancho": 4,
         "talla": null,
-        "precio": 470,
+        "precio": 480,
         "peso": 4.8,
         "stock": false,
         "codigo": "ROS012-PL60x4"
@@ -2431,7 +2431,7 @@
         "largo": 45,
         "ancho": 6,
         "talla": null,
-        "precio": 530,
+        "precio": 540,
         "peso": 5.4,
         "stock": false,
         "codigo": "ROS012-PL45x6"
@@ -2453,7 +2453,7 @@
         "largo": 50,
         "ancho": 6,
         "talla": null,
-        "precio": 550,
+        "precio": 560,
         "peso": 5.6,
         "stock": false,
         "codigo": "ROS012-PL50x6"
@@ -2475,7 +2475,7 @@
         "largo": 60,
         "ancho": 6,
         "talla": null,
-        "precio": 21680,
+        "precio": 22010,
         "peso": 7.2,
         "stock": true,
         "codigo": "ROS012-OR60x6"
@@ -2486,7 +2486,7 @@
         "largo": 60,
         "ancho": 4,
         "talla": null,
-        "precio": 14760,
+        "precio": 14980,
         "peso": 4.9,
         "stock": true,
         "codigo": "ROS012-OR60x4"
@@ -2497,7 +2497,7 @@
         "largo": 45,
         "ancho": 6,
         "talla": null,
-        "precio": 15060,
+        "precio": 15280,
         "peso": 5.0,
         "stock": true,
         "codigo": "ROS012-OR45x6"
@@ -2508,7 +2508,7 @@
         "largo": 45,
         "ancho": 4,
         "talla": null,
-        "precio": 9940,
+        "precio": 10090,
         "peso": 3.3,
         "stock": true,
         "codigo": "ROS012-OR45x4"
@@ -2519,7 +2519,7 @@
         "largo": 50,
         "ancho": 6,
         "talla": null,
-        "precio": 18370,
+        "precio": 18650,
         "peso": 6.1,
         "stock": false,
         "codigo": "ROS012-OR50x6"
@@ -2530,7 +2530,7 @@
         "largo": 50,
         "ancho": 4,
         "talla": null,
-        "precio": 12350,
+        "precio": 12530,
         "peso": 4.1,
         "stock": true,
         "codigo": "ROS012-OR50x4"
@@ -2541,7 +2541,7 @@
         "largo": 60,
         "ancho": 6,
         "talla": null,
-        "precio": 30000,
+        "precio": 30450,
         "peso": 7.1,
         "stock": true,
         "codigo": "ROS012-OR60x6"
@@ -2552,7 +2552,7 @@
         "largo": 60,
         "ancho": 4,
         "talla": null,
-        "precio": 19860,
+        "precio": 20150,
         "peso": 4.7,
         "stock": true,
         "codigo": "ROS012-OR60x4"
@@ -2563,7 +2563,7 @@
         "largo": 45,
         "ancho": 6,
         "talla": null,
-        "precio": 21970,
+        "precio": 22300,
         "peso": 5.2,
         "stock": true,
         "codigo": "ROS012-OR45x6"
@@ -2574,7 +2574,7 @@
         "largo": 45,
         "ancho": 4,
         "talla": null,
-        "precio": 15210,
+        "precio": 15440,
         "peso": 3.6,
         "stock": true,
         "codigo": "ROS012-OR45x4"
@@ -2585,7 +2585,7 @@
         "largo": 50,
         "ancho": 6,
         "talla": null,
-        "precio": 24930,
+        "precio": 25300,
         "peso": 5.9,
         "stock": true,
         "codigo": "ROS012-OR50x6"
@@ -2596,7 +2596,7 @@
         "largo": 50,
         "ancho": 4,
         "talla": null,
-        "precio": 16900,
+        "precio": 17150,
         "peso": 4.0,
         "stock": false,
         "codigo": "ROS012-OR50x4"
@@ -2692,7 +2692,7 @@
         "largo": 55,
         "ancho": 4,
         "talla": null,
-        "precio": 13250,
+        "precio": 13450,
         "peso": 4.4,
         "stock": true,
         "codigo": "TOB013-OR55x4"
@@ -2703,7 +2703,7 @@
         "largo": 55,
         "ancho": 8,
         "talla": null,
-        "precio": 25000,
+        "precio": 25370,
         "peso": 8.3,
         "stock": true,
         "codigo": "TOB013-OR55x8"
@@ -2714,7 +2714,7 @@
         "largo": 45,
         "ancho": 4,
         "talla": null,
-        "precio": 10540,
+        "precio": 10700,
         "peso": 3.5,
         "stock": true,
         "codigo": "TOB013-OR45x4"
@@ -2725,7 +2725,7 @@
         "largo": 45,
         "ancho": 8,
         "talla": null,
-        "precio": 21380,
+        "precio": 21700,
         "peso": 7.1,
         "stock": false,
         "codigo": "TOB013-OR45x8"
@@ -2736,7 +2736,7 @@
         "largo": 50,
         "ancho": 4,
         "talla": null,
-        "precio": 11440,
+        "precio": 11620,
         "peso": 3.8,
         "stock": true,
         "codigo": "TOB013-OR50x4"
@@ -2747,7 +2747,7 @@
         "largo": 50,
         "ancho": 8,
         "talla": null,
-        "precio": 23490,
+        "precio": 23840,
         "peso": 7.8,
         "stock": false,
         "codigo": "TOB013-OR50x8"
@@ -2758,7 +2758,7 @@
         "largo": 55,
         "ancho": 4,
         "talla": null,
-        "precio": 18590,
+        "precio": 18870,
         "peso": 4.4,
         "stock": true,
         "codigo": "TOB013-OR55x4"
@@ -2769,7 +2769,7 @@
         "largo": 55,
         "ancho": 8,
         "talla": null,
-        "precio": 35490,
+        "precio": 36020,
         "peso": 8.4,
         "stock": true,
         "codigo": "TOB013-OR55x8"
@@ -2780,7 +2780,7 @@
         "largo": 45,
         "ancho": 4,
         "talla": null,
-        "precio": 16050,
+        "precio": 16300,
         "peso": 3.8,
         "stock": true,
         "codigo": "TOB013-OR45x4"
@@ -2791,7 +2791,7 @@
         "largo": 45,
         "ancho": 8,
         "talla": null,
-        "precio": 29150,
+        "precio": 29590,
         "peso": 6.9,
         "stock": true,
         "codigo": "TOB013-OR45x8"
@@ -2802,7 +2802,7 @@
         "largo": 50,
         "ancho": 4,
         "talla": null,
-        "precio": 17320,
+        "precio": 17580,
         "peso": 4.1,
         "stock": false,
         "codigo": "TOB013-OR50x4"
@@ -2813,7 +2813,7 @@
         "largo": 50,
         "ancho": 8,
         "talla": null,
-        "precio": 34220,
+        "precio": 34730,
         "peso": 8.1,
         "stock": false,
         "codigo": "TOB013-OR50x8"
@@ -2909,7 +2909,7 @@
         "largo": 50,
         "ancho": 8,
         "talla": null,
-        "precio": 22590,
+        "precio": 22930,
         "peso": 7.5,
         "stock": false,
         "codigo": "TOB014-OR50x8"
@@ -2920,7 +2920,7 @@
         "largo": 50,
         "ancho": 4,
         "talla": null,
-        "precio": 12050,
+        "precio": 12230,
         "peso": 4.0,
         "stock": false,
         "codigo": "TOB014-OR50x4"
@@ -2931,7 +2931,7 @@
         "largo": 45,
         "ancho": 8,
         "talla": null,
-        "precio": 20780,
+        "precio": 21090,
         "peso": 6.9,
         "stock": true,
         "codigo": "TOB014-OR45x8"
@@ -2942,7 +2942,7 @@
         "largo": 45,
         "ancho": 4,
         "talla": null,
-        "precio": 10240,
+        "precio": 10390,
         "peso": 3.4,
         "stock": false,
         "codigo": "TOB014-OR45x4"
@@ -2953,7 +2953,7 @@
         "largo": 55,
         "ancho": 8,
         "talla": null,
-        "precio": 25300,
+        "precio": 25680,
         "peso": 8.4,
         "stock": true,
         "codigo": "TOB014-OR55x8"
@@ -2964,7 +2964,7 @@
         "largo": 55,
         "ancho": 4,
         "talla": null,
-        "precio": 12050,
+        "precio": 12230,
         "peso": 4.0,
         "stock": true,
         "codigo": "TOB014-OR55x4"
@@ -2975,7 +2975,7 @@
         "largo": 50,
         "ancho": 8,
         "talla": null,
-        "precio": 33800,
+        "precio": 34310,
         "peso": 8.0,
         "stock": true,
         "codigo": "TOB014-OR50x8"
@@ -2986,7 +2986,7 @@
         "largo": 50,
         "ancho": 4,
         "talla": null,
-        "precio": 17740,
+        "precio": 18010,
         "peso": 4.2,
         "stock": true,
         "codigo": "TOB014-OR50x4"
@@ -2997,7 +2997,7 @@
         "largo": 45,
         "ancho": 8,
         "talla": null,
-        "precio": 30000,
+        "precio": 30450,
         "peso": 7.1,
         "stock": true,
         "codigo": "TOB014-OR45x8"
@@ -3008,7 +3008,7 @@
         "largo": 45,
         "ancho": 4,
         "talla": null,
-        "precio": 14360,
+        "precio": 14580,
         "peso": 3.4,
         "stock": true,
         "codigo": "TOB014-OR45x4"
@@ -3019,7 +3019,7 @@
         "largo": 55,
         "ancho": 8,
         "talla": null,
-        "precio": 35910,
+        "precio": 36450,
         "peso": 8.5,
         "stock": true,
         "codigo": "TOB014-OR55x8"
@@ -3030,7 +3030,7 @@
         "largo": 55,
         "ancho": 4,
         "talla": null,
-        "precio": 17740,
+        "precio": 18010,
         "peso": 4.2,
         "stock": false,
         "codigo": "TOB014-OR55x4"
@@ -3104,7 +3104,7 @@
         "largo": null,
         "ancho": null,
         "talla": 11,
-        "precio": 10240,
+        "precio": 10390,
         "peso": 3.4,
         "stock": true,
         "codigo": "ANI015-ORT11"
@@ -3115,7 +3115,7 @@
         "largo": null,
         "ancho": null,
         "talla": 7,
-        "precio": 9030,
+        "precio": 9170,
         "peso": 3.0,
         "stock": false,
         "codigo": "ANI015-ORT7"
@@ -3126,7 +3126,7 @@
         "largo": null,
         "ancho": null,
         "talla": 5,
-        "precio": 8430,
+        "precio": 8560,
         "peso": 2.8,
         "stock": false,
         "codigo": "ANI015-ORT5"
@@ -3137,7 +3137,7 @@
         "largo": null,
         "ancho": null,
         "talla": 10,
-        "precio": 10540,
+        "precio": 10700,
         "peso": 3.5,
         "stock": true,
         "codigo": "ANI015-ORT10"
@@ -3148,7 +3148,7 @@
         "largo": null,
         "ancho": null,
         "talla": 11,
-        "precio": 15210,
+        "precio": 15440,
         "peso": 3.6,
         "stock": true,
         "codigo": "ANI015-ORT11"
@@ -3159,7 +3159,7 @@
         "largo": null,
         "ancho": null,
         "talla": 7,
-        "precio": 13100,
+        "precio": 13290,
         "peso": 3.1,
         "stock": false,
         "codigo": "ANI015-ORT7"
@@ -3170,7 +3170,7 @@
         "largo": null,
         "ancho": null,
         "talla": 5,
-        "precio": 10980,
+        "precio": 11150,
         "peso": 2.6,
         "stock": true,
         "codigo": "ANI015-ORT5"
@@ -3181,7 +3181,7 @@
         "largo": null,
         "ancho": null,
         "talla": 10,
-        "precio": 14360,
+        "precio": 14580,
         "peso": 3.4,
         "stock": true,
         "codigo": "ANI015-ORT10"
@@ -3255,7 +3255,7 @@
         "largo": null,
         "ancho": null,
         "talla": 8,
-        "precio": 9030,
+        "precio": 9170,
         "peso": 3.0,
         "stock": false,
         "codigo": "ANI016-ORT8"
@@ -3266,7 +3266,7 @@
         "largo": null,
         "ancho": null,
         "talla": 5,
-        "precio": 7230,
+        "precio": 7340,
         "peso": 2.4,
         "stock": true,
         "codigo": "ANI016-ORT5"
@@ -3277,7 +3277,7 @@
         "largo": null,
         "ancho": null,
         "talla": 9,
-        "precio": 9030,
+        "precio": 9170,
         "peso": 3.0,
         "stock": false,
         "codigo": "ANI016-ORT9"
@@ -3288,7 +3288,7 @@
         "largo": null,
         "ancho": null,
         "talla": 6,
-        "precio": 8430,
+        "precio": 8560,
         "peso": 2.8,
         "stock": false,
         "codigo": "ANI016-ORT6"
@@ -3299,7 +3299,7 @@
         "largo": null,
         "ancho": null,
         "talla": 8,
-        "precio": 13520,
+        "precio": 13720,
         "peso": 3.2,
         "stock": false,
         "codigo": "ANI016-ORT8"
@@ -3310,7 +3310,7 @@
         "largo": null,
         "ancho": null,
         "talla": 5,
-        "precio": 10980,
+        "precio": 11150,
         "peso": 2.6,
         "stock": true,
         "codigo": "ANI016-ORT5"
@@ -3321,7 +3321,7 @@
         "largo": null,
         "ancho": null,
         "talla": 9,
-        "precio": 13100,
+        "precio": 13290,
         "peso": 3.1,
         "stock": true,
         "codigo": "ANI016-ORT9"
@@ -3332,7 +3332,7 @@
         "largo": null,
         "ancho": null,
         "talla": 6,
-        "precio": 11410,
+        "precio": 11580,
         "peso": 2.7,
         "stock": true,
         "codigo": "ANI016-ORT6"
@@ -3406,7 +3406,7 @@
         "largo": null,
         "ancho": null,
         "talla": 7,
-        "precio": 9030,
+        "precio": 9170,
         "peso": 3.0,
         "stock": false,
         "codigo": "ANI017-ORT7"
@@ -3417,7 +3417,7 @@
         "largo": null,
         "ancho": null,
         "talla": 6,
-        "precio": 8130,
+        "precio": 8250,
         "peso": 2.7,
         "stock": true,
         "codigo": "ANI017-ORT6"
@@ -3428,7 +3428,7 @@
         "largo": null,
         "ancho": null,
         "talla": 11,
-        "precio": 10240,
+        "precio": 10390,
         "peso": 3.4,
         "stock": true,
         "codigo": "ANI017-ORT11"
@@ -3439,7 +3439,7 @@
         "largo": null,
         "ancho": null,
         "talla": 9,
-        "precio": 9030,
+        "precio": 9170,
         "peso": 3.0,
         "stock": true,
         "codigo": "ANI017-ORT9"
@@ -3450,7 +3450,7 @@
         "largo": null,
         "ancho": null,
         "talla": 7,
-        "precio": 12250,
+        "precio": 12440,
         "peso": 2.9,
         "stock": false,
         "codigo": "ANI017-ORT7"
@@ -3461,7 +3461,7 @@
         "largo": null,
         "ancho": null,
         "talla": 6,
-        "precio": 11410,
+        "precio": 11580,
         "peso": 2.7,
         "stock": true,
         "codigo": "ANI017-ORT6"
@@ -3472,7 +3472,7 @@
         "largo": null,
         "ancho": null,
         "talla": 11,
-        "precio": 15210,
+        "precio": 15440,
         "peso": 3.6,
         "stock": true,
         "codigo": "ANI017-ORT11"
@@ -3483,7 +3483,7 @@
         "largo": null,
         "ancho": null,
         "talla": 9,
-        "precio": 13100,
+        "precio": 13290,
         "peso": 3.1,
         "stock": false,
         "codigo": "ANI017-ORT9"
@@ -3524,7 +3524,7 @@
         "largo": null,
         "ancho": null,
         "talla": null,
-        "precio": 16260,
+        "precio": 16510,
         "peso": 5.4,
         "stock": false,
         "codigo": "ARE018-OR"
@@ -3535,7 +3535,7 @@
         "largo": null,
         "ancho": null,
         "talla": null,
-        "precio": 6340,
+        "precio": 6430,
         "peso": 1.5,
         "stock": false,
         "codigo": "ARE018-OR"
@@ -3565,7 +3565,7 @@
         "largo": null,
         "ancho": null,
         "talla": null,
-        "precio": 510,
+        "precio": 520,
         "peso": 5.2,
         "stock": false,
         "codigo": "ARE019-PL"
@@ -3576,7 +3576,7 @@
         "largo": null,
         "ancho": null,
         "talla": null,
-        "precio": 16260,
+        "precio": 16510,
         "peso": 5.4,
         "stock": true,
         "codigo": "ARE019-OR"
@@ -3587,7 +3587,7 @@
         "largo": null,
         "ancho": null,
         "talla": null,
-        "precio": 19430,
+        "precio": 19730,
         "peso": 4.6,
         "stock": true,
         "codigo": "ARE019-OR"
@@ -3628,7 +3628,7 @@
         "largo": null,
         "ancho": null,
         "talla": null,
-        "precio": 15960,
+        "precio": 16200,
         "peso": 5.3,
         "stock": false,
         "codigo": "ARE020-OR"
@@ -3639,7 +3639,7 @@
         "largo": null,
         "ancho": null,
         "talla": null,
-        "precio": 7600,
+        "precio": 7720,
         "peso": 1.8,
         "stock": true,
         "codigo": "ARE020-OR"
@@ -3680,7 +3680,7 @@
         "largo": null,
         "ancho": null,
         "talla": null,
-        "precio": 7230,
+        "precio": 7340,
         "peso": 2.4,
         "stock": true,
         "codigo": "DIJ021-OR"
@@ -3691,7 +3691,7 @@
         "largo": null,
         "ancho": null,
         "talla": null,
-        "precio": 17320,
+        "precio": 17580,
         "peso": 4.1,
         "stock": true,
         "codigo": "DIJ021-OR"
@@ -3721,7 +3721,7 @@
         "largo": null,
         "ancho": null,
         "talla": null,
-        "precio": 520,
+        "precio": 530,
         "peso": 5.3,
         "stock": true,
         "codigo": "DIJ022-PL"
@@ -3732,7 +3732,7 @@
         "largo": null,
         "ancho": null,
         "talla": null,
-        "precio": 10840,
+        "precio": 11000,
         "peso": 3.6,
         "stock": false,
         "codigo": "DIJ022-OR"
@@ -3743,7 +3743,7 @@
         "largo": null,
         "ancho": null,
         "talla": null,
-        "precio": 18170,
+        "precio": 18440,
         "peso": 4.3,
         "stock": true,
         "codigo": "DIJ022-OR"
@@ -3784,7 +3784,7 @@
         "largo": null,
         "ancho": null,
         "talla": null,
-        "precio": 10840,
+        "precio": 11000,
         "peso": 3.6,
         "stock": true,
         "codigo": "DIJ023-OR"
@@ -3795,7 +3795,7 @@
         "largo": null,
         "ancho": null,
         "talla": null,
-        "precio": 13100,
+        "precio": 13290,
         "peso": 3.1,
         "stock": true,
         "codigo": "DIJ023-OR"
@@ -3836,7 +3836,7 @@
         "largo": null,
         "ancho": null,
         "talla": null,
-        "precio": 4520,
+        "precio": 4590,
         "peso": 1.5,
         "stock": true,
         "codigo": "ESC024-OR"
@@ -3847,7 +3847,7 @@
         "largo": null,
         "ancho": null,
         "talla": null,
-        "precio": 23240,
+        "precio": 23590,
         "peso": 5.5,
         "stock": true,
         "codigo": "ESC024-OR"
@@ -3877,7 +3877,7 @@
         "largo": null,
         "ancho": null,
         "talla": null,
-        "precio": 520,
+        "precio": 530,
         "peso": 5.3,
         "stock": true,
         "codigo": "ESC025-PL"
@@ -3888,7 +3888,7 @@
         "largo": null,
         "ancho": null,
         "talla": null,
-        "precio": 10240,
+        "precio": 10390,
         "peso": 3.4,
         "stock": true,
         "codigo": "ESC025-OR"
@@ -3899,7 +3899,7 @@
         "largo": null,
         "ancho": null,
         "talla": null,
-        "precio": 15630,
+        "precio": 15870,
         "peso": 3.7,
         "stock": true,
         "codigo": "ESC025-OR"
@@ -3929,7 +3929,7 @@
         "largo": null,
         "ancho": null,
         "talla": null,
-        "precio": 520,
+        "precio": 530,
         "peso": 5.3,
         "stock": true,
         "codigo": "JUE026-PL"
@@ -3940,7 +3940,7 @@
         "largo": null,
         "ancho": null,
         "talla": null,
-        "precio": 5120,
+        "precio": 5200,
         "peso": 1.7,
         "stock": true,
         "codigo": "JUE026-OR"
@@ -3951,7 +3951,7 @@
         "largo": null,
         "ancho": null,
         "talla": null,
-        "precio": 14790,
+        "precio": 15010,
         "peso": 3.5,
         "stock": false,
         "codigo": "JUE026-OR"
@@ -3992,7 +3992,7 @@
         "largo": null,
         "ancho": null,
         "talla": null,
-        "precio": 12650,
+        "precio": 12840,
         "peso": 4.2,
         "stock": true,
         "codigo": "JUE027-OR"
@@ -4003,7 +4003,7 @@
         "largo": null,
         "ancho": null,
         "talla": null,
-        "precio": 10140,
+        "precio": 10290,
         "peso": 2.4,
         "stock": true,
         "codigo": "JUE027-OR"
@@ -4044,7 +4044,7 @@
         "largo": null,
         "ancho": null,
         "talla": null,
-        "precio": 8730,
+        "precio": 8860,
         "peso": 2.9,
         "stock": false,
         "codigo": "PER028-OR"
@@ -4055,7 +4055,7 @@
         "largo": null,
         "ancho": null,
         "talla": null,
-        "precio": 9720,
+        "precio": 9860,
         "peso": 2.3,
         "stock": true,
         "codigo": "PER028-OR"
@@ -4096,7 +4096,7 @@
         "largo": null,
         "ancho": null,
         "talla": null,
-        "precio": 6930,
+        "precio": 7030,
         "peso": 2.3,
         "stock": true,
         "codigo": "PER029-OR"
@@ -4107,7 +4107,7 @@
         "largo": null,
         "ancho": null,
         "talla": null,
-        "precio": 11410,
+        "precio": 11580,
         "peso": 2.7,
         "stock": true,
         "codigo": "PER029-OR"
